@@ -117,9 +117,9 @@
 - 🟡 [Linearbeschleuniger am LHC](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/linearbeschleuniger-am-lhc)
 - 🟡 [Ionenantrieb (Abitur BY 2000 GK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/ionenantrieb-abitur-2000-gk-a1-1)
 - 🟡 [Fadenstrahlrohr](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/fadenstrahlrohr)
+- 🟡 [Strahlentherapie mit Elektronen (Abitur BY 2020 Ph11-1 A1)](https://www.leifiphysik.de/relativitaetstheorie/spezielle-relativitaetstheorie/aufgabe/strahlentherapie-mit-elektronen-abitur-2020-ph11-1-a1)
 - 🟡 [Teilchennachweis in der Blasenkammer](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/teilchennachweis-in-der-blasenkammer)
 - 🟡 [Polarlicht (Abitur BY 2013 Ph11 A1-3)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/polarlicht-abitur-2013-ph11-a1-3)
-- 🟡 [Strahlentherapie mit Elektronen (Abitur BY 2020 Ph11-1 A1)](https://www.leifiphysik.de/relativitaetstheorie/spezielle-relativitaetstheorie/aufgabe/strahlentherapie-mit-elektronen-abitur-2020-ph11-1-a1) *(relativistischer Spezialfall)*
 - 🔴 [Elektronen im gebogenen Plattenkondensator (Abitur BY 2018 Ph11-1 A1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/elektronen-im-gebogenen-plattenkondensator-abitur-2018-ph11-1-a1)
 - 🔴 [Abgasreinigung (Abitur BY 2015 Ph11 A2-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/abgasreinigung-abitur-2015-ph11-a2-1)
 - 🔴 [Erzeugung eines fokussierten Protonenstrahls (Abitur BY 2016 Ph11 A2-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/erzeugung-eines-fokussierten-protonenstrahls-abitur-2016-ph11-a2-1)
@@ -152,13 +152,7 @@
 - 🔴 [Massenspektrograph (Abitur BY 2000 LK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/massenspektrograph-abitur-2000-lk-a1-1)
 - 🔴 [Trennung von Isotopen (Abitur BY 1984 GK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/trennung-von-isotopen-abitur-1984-gk-a1-1)
 
-<br>
-
----
-
-## Spezielle Relativitätstheorie
-
-> 💡 **Hinweis:** Setzt Kenntnisse aus „Lorentzkraft & Teilchen in Feldern" voraus. Aufgaben mit relativistischem Bezug zu Teilchen im Feld (z. B. Strahlentherapie) sind dort eingeordnet.
+### Spezielle Relativitätstheorie
 
 - 🟢 [Impuls und Geschwindigkeit von Elektronen im B-Feld](https://www.leifiphysik.de/relativitaetstheorie/spezielle-relativitaetstheorie/aufgabe/impuls-und-geschwindigkeit-von-elektronen-im-b-feld)
 - 🟢 [Relativistische Elektronen](https://www.leifiphysik.de/relativitaetstheorie/spezielle-relativitaetstheorie/aufgabe/relativistische-elektronen)
@@ -189,6 +183,7 @@
 - 🔴 [Rotierende Spule im Erdmagnetfeld (Abitur BY 2015 Ph11 A2-2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/rotierende-spule-im-erdmagnetfeld-abitur-2015-ph11-a2-2)
 - 🔴 [Weidezaun (Abitur BY 2019 Ph11-1 A2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/weidezaun-abitur-2019-ph11-1-a2)
 
+
 ### Selbstinduktion
 
 - 🟡 [Rund um die Selbstinduktion](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/rund-um-die-selbstinduktion)
@@ -198,10 +193,6 @@
 - 🔴 [Anlassstrom und Gegenspannung beim Elektromotor](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/anlassstrom-und-gegenspannung-beim-elektromotor)
 - 🔴 [Gleichstrommotor / Wirkungsgrad beim Elektromotor](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/gleichstrommotor)
 - 🔴 [Magnetische Energie](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/magnetische-energie)
-
-<br>
-
----
 
 ## Elektromagnetische Schwingungen
 
@@ -215,6 +206,7 @@
 - 🟡 [Analogie – mechanisch/elektromagnetisch (Abitur BY 2002 GK A2-1)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-schwingungen/aufgabe/analogie-abitur-2002-gk-a2-1)
 - 🟡 [Reale elektromagnetische Schwingung (Abitur BY 2017 Ph11-1 A2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-schwingungen/aufgabe/reale-elektromagnetische-schwingung-abitur-2017-ph11-1-a2)
 - 🟡 [Schwingkreis in Resonanz (Abitur BY 2006 GK A2-1)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-schwingungen/aufgabe/schwingkreis-resonanz-abitur-2006-gk-a2-1)
+
 
 <br>
 
@@ -255,6 +247,7 @@
 - 🟢 [Wellenlängenmessung (Abitur BY 1991 GK A2-1&2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-wellen/aufgabe/wellenlaengenmessung-abitur-1991-gk-a2-12)
 - 🟡 [Strahlung auf Metallplatte (Abitur BY 2000 GK A2-2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-wellen/aufgabe/strahlung-auf-metallplatte-abitur-2000-gk-a2-2)
 
+
 <br>
 
 ---
@@ -285,8 +278,6 @@
 
 ### Bragg-Reflexion
 
-> 💡 **Hinweis:** Die Bragg-Bedingung wird hier im Kontext klassischer Wellenoptik eingeführt. In Q13 taucht sie erneut bei Röntgenstrahlung auf – der Zusammenhang wird dort quantenphysikalisch vertieft.
-
 - 🟢 [Herleitung der BRAGG-Bedingung](https://www.leifiphysik.de/optik/beugung-und-interferenz/aufgabe/herleitung-der-bragg-bedingung)
 - 🟡 [BRAGG-Reflexion mit Mikrowellen](https://www.leifiphysik.de/optik/beugung-und-interferenz/aufgabe/bragg-reflexion-mit-mikrowellen)
 - 🟡 [RÖNTGEN-Strahlung und BRAGG (Abitur BY 1994 LK A4-3)](https://www.leifiphysik.de/optik/beugung-und-interferenz/aufgabe/roentgen-strahlung-und-bragg-abitur-1994-lk-a4-3)
@@ -301,6 +292,8 @@
 
 # **Q13**
 
+
+<br>
 
 ## Quantenphysik
 
@@ -353,8 +346,6 @@
 - 🔴 [RÖNTGEN-Spektroskopie (Abitur BY 1995 LK A3-2)](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/aufgabe/roentgen-spektroskopie-abitur-1995-lk-a3-2)
 
 ### Röntgenstrahlung
-
-> 💡 **Hinweis:** Die Bragg-Bedingung wurde bereits in Q12 (Optik) eingeführt – hier wird sie im Kontext der Röntgenstrahlung und Kristallstrukturanalyse quantenphysikalisch vertieft.
 
 - 🟢 [Bestimmung des PLANCKschen Wirkungsquantums aus dem RÖNTGEN-Spektrum](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/aufgabe/bestimmung-des-planckschen-wirkungsquantums-aus-dem-roentgen-spektrum)
 - 🟡 [RÖNTGEN-Fluoreszenzanalyse (Abitur BY 2016 Ph12-2-A1)](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/aufgabe/roentgen-fluoreszenzanalyse-abitur-2016-ph12-2-a1)
@@ -460,15 +451,3 @@
 
 <br>
 
-# Lehrplan ISB
-
-- [12 (eA)](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/12/physik/erhoeht)
-- [13 (eA)](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/13/physik/erhoeht)
-
-<br>
-
-## Ampel-Legende
-
-> 🟢 Leichte Aufgabe
-> 🟡 Mittlere Aufgabe
-> 🔴 Schwere Aufgabe

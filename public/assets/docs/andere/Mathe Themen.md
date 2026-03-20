@@ -1,5 +1,6 @@
 # Mathe Übungsplan – Lambacher Schweizer Bayern
 
+---
 
 
 <br>
@@ -7,9 +8,9 @@
 
 # 1. Analysis
 
-## Funktionenscharen, Stammfunktion, Ableitungsregeln
+### Funktionenscharen, Stammfunktion, Ableitungsregeln
 
-### 1. Funktionenscharen 🟡
+#### 1. Funktionenscharen 🟡
 | Seite | Aufgabe |
 |-------|---------|
 | S. 84 |
@@ -20,7 +21,7 @@
 
 ---
 
-### 2. Stammfunktionen 🟡
+#### 2. Stammfunktionen 🟡
 | Seite | Aufgabe |
 |-------|---------|
 | S. 91 | |
@@ -31,7 +32,7 @@
 
 ---
 
-### 3. Ableitung der trigonometrischen Funktionen 🟢
+#### 3. Ableitung der trigonometrischen Funktionen 🟢
 | Seite | Aufgabe |
 |-------|---------|
 | S. 98 | |
@@ -42,7 +43,7 @@
 
 ---
 
-### 4. Die Produktregel 🟡
+#### 4. Die Produktregel 🟡
 | Seite | Aufgabe |
 |-------|---------|
 | S. 105 | |
@@ -53,7 +54,7 @@
 
 ---
 
-### 5. Kettenregel 🟡
+#### 5. Kettenregel 🟡
 | Seite | Aufgabe |
 |-------|---------|
 | S. 112 | |
@@ -64,9 +65,9 @@
 
 ---
 
-## Die Exponentialfunktion
+### Die Exponentialfunktion
 
-### 6. Die natürliche Exponentialfunktion 🟡
+#### 6. Die natürliche Exponentialfunktion 🟡
 | Seite | Aufgabe |
 |-------|---------|
 | S. 126 | |
@@ -77,7 +78,7 @@
 
 ---
 
-### 7. Verknüpfte Exponentialfunktionen 🔴
+#### 7. Verknüpfte Exponentialfunktionen 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 133 | |
@@ -89,7 +90,7 @@
 
 ---
 
-### 8. Der natürliche Logarithmus 🔴
+#### 8. Der natürliche Logarithmus 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 140 | |
@@ -101,7 +102,7 @@
 
 ---
 
-### 9. Modellierung von Wachstumsvorgängen 🔴
+#### 9. Modellierung von Wachstumsvorgängen 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 148 | |
@@ -112,9 +113,9 @@
 
 ---
 
-## Quotientenregel und Untersuchung von Funktionen
+### Quotientenregel und Untersuchung von Funktionen
 
-### 10. Quotientenregel 🔴
+#### 10. Quotientenregel 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 160 | |
@@ -126,7 +127,7 @@
 
 ---
 
-### 11. Untersuchung gebrochen-rationaler Funktionen 🔴
+#### 11. Untersuchung gebrochen-rationaler Funktionen 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 168 | |
@@ -138,9 +139,9 @@
 
 ---
 
-## Wurzelfunktionen
+### Wurzelfunktionen
 
-### 12. Die Umkehrfunktion 🔴
+#### 12. Die Umkehrfunktion 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 178 | |
@@ -151,7 +152,7 @@
 
 ---
 
-### 13. Wurzelfunktionen 🔴
+#### 13. Wurzelfunktionen 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 184 | |
@@ -162,9 +163,9 @@
 
 ---
 
-## Die natürliche Logarithmusfunktion
+### Die natürliche Logarithmusfunktion
 
-### 14. Die natürliche Logarithmusfunktion 🔴
+#### 14. Die natürliche Logarithmusfunktion 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 192 | |
@@ -176,9 +177,9 @@
 
 ---
 
-## Integralrechnung
+### Integralrechnung
 
-### 15. Das bestimmte Integral 🔴
+#### 15. Das bestimmte Integral 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 206 | |
@@ -189,7 +190,7 @@
 
 ---
 
-### 16. Die Integralfunktion 🔴
+#### 16. Die Integralfunktion 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 214 | |
@@ -200,7 +201,7 @@
 
 ---
 
-### 17. Das unbestimmte Integral, Integrationsregeln 🔴
+#### 17. Das unbestimmte Integral, Integrationsregeln 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 220 | |
@@ -212,7 +213,7 @@
 
 ---
 
-### 18. Uneigentliche Integrale 🔴
+#### 18. Uneigentliche Integrale 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 228 | |
@@ -223,7 +224,7 @@
 
 ---
 
-### 19. Anwendungen der Integralrechnung 🔴
+#### 19. Anwendungen der Integralrechnung 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 234 | |
@@ -234,7 +235,7 @@
 
 ---
 
-### 20. Rotationskörper 🔴
+#### 20. Rotationskörper 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 242 | |
@@ -394,16 +395,16 @@
 
 # 3. Geometrie
 
-## Koordinatengeometrie im Raum
+## Koordinatengeometrie im Raum **Q12**
 
 ### 1. Punkte im Raum – das dreidimensionale Koordinatensystem 🟢
 | Seite | Aufgabe |
 |-------|---------|
 | S. 14 | |
 
-- [ ] Aufg. 1
-- [ ] Aufg. 2
-- [ ] Aufg. 4
+- [ ] Aufg. X
+- [ ] Aufg. X
+- [ ] Aufg. X
 
 ---
 
@@ -412,9 +413,9 @@
 |-------|---------|
 | S. 22 | |
 
-- [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
+- [ ] Aufg. X
+- [ ] Aufg. X
+- [ ] Aufg. X
 
 ---
 
@@ -423,9 +424,9 @@
 |-------|---------|
 | S. 30 | |
 
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
+- [ ] Aufg. X
+- [ ] Aufg. X
+- [ ] Aufg. X
 
 ---
 
@@ -434,9 +435,9 @@
 |-------|---------|
 | S. 38 | |
 
-- [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
+- [ ] Aufg. X
+- [ ] Aufg. X
+- [ ] Aufg. X
 
 ---
 
@@ -445,9 +446,9 @@
 |-------|---------|
 | S. 46 | |
 
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
+- [ ] Aufg. X
+- [ ] Aufg. X
+- [ ] Aufg. X
 
 ---
 
@@ -476,97 +477,123 @@
 ---
 
 ### 8. Gegenseitige Lage von Geraden 🟡
+
+* Spickzettel erstellen (Seite 98)
+
 | Seite | Aufgabe |
 |-------|---------|
-| S. 70 | |
+| S. 98 | |
 
-- [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
+- [ ] Aufg. 3 Test
+- [ ] Aufg. 9 Test
 
 ---
 
 ### 9. Parameterdarstellung von Ebenen 🟢
+
+* Karteikarte mit allen Ebenenformen
+
 | Seite | Aufgabe |
 |-------|---------|
-| S. 76 | |
+| S. 101| |
 
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
+- [ ] Aufg. 1
+- [ ] Aufg. 6 Test
+- [ ] Aufg. 14 Test
 
 ---
 
 ### 10. Normalen- und Koordinatenform von Ebenen 🟡
+
+* Auch auf Karteikarte von Ebenen notieren
+
 | Seite | Aufgabe |
 |-------|---------|
-| S. 82 | |
+| S. 105| |
 
-- [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
+- [ ] Aufg. 4 Test
+- [ ] Aufg. 5 Test
+- [ ] Aufg. 17 Abi
+- [ ] Aufg. 18 Test
 
 ---
 
 ### 11. Gegenseitige Lage: Gerade und Ebene 🔴
+
+* PAP erstellen
+
 | Seite | Aufgabe |
 |-------|---------|
-| S. 88 | |
+| S. 109| |
 
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
-- [ ] Aufg. 8
+- [ ] Aufg. 7 Test
+- [ ] Aufg. 15 Abi
+- [ ] Aufg. 18
+- [ ] Aufg. 20
+- [ ] Aufg. 21 Test
 
 ---
 
 ### 12. Gegenseitige Lage von Ebenen 🔴
+
+* PAP aus 11. ggf erweitern
+
 | Seite | Aufgabe |
 |-------|---------|
-| S. 94 | |
+| S. 114| |
 
 - [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
-- [ ] Aufg. 7
+- [ ] Aufg. 4
+- [ ] Aufg. 6
+- [ ] Aufg. 11 Test
 
 ---
 
 ### 13. Abstandsbestimmungen 🔴
+
+* Karteikarte PAP
+
 | Seite | Aufgabe |
 |-------|---------|
-| S. 100 | |
+| S. 118| |
 
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
+- [ ] Aufg. 1
+- [ ] Aufg. 8 Test
+- [ ] Aufg. 13
+- [ ] Aufg. 21 Test
 
 ---
 
 ### 14. Schnittwinkel 🔴
+
+* Karteikarte
+
 | Seite | Aufgabe |
 |-------|---------|
-| S. 108 | |
+| S. 124| |
 
 - [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
+- [ ] Aufg. 10
+- [ ] Aufg. 13 Abi
 
 ---
 
 ### 15. Kugeln im Raum 🔴
+
+* Spicker
+
 | Seite | Aufgabe |
 |-------|---------|
-| S. 116 | |
+| S. 130| |
 
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
+- [ ] Aufg. 1
+- [ ] Aufg. 18
+- [ ] Aufg. 22 Test
 
 ---
 
 ## Ampel-Legende
 
-> 🟢 Sicher beherrscht
-> 🟡 Grundverständnis, aber Übung nötig
+> 🟢 Sicher beherrscht  
+> 🟡 Grundverständnis, aber Übung nötig  
 > 🔴 Keine Ahnung – höchste Priorität
