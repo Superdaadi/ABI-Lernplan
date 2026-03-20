@@ -27,6 +27,7 @@ export class Lernplan {
   renderedHtml: SafeHtml = '';
   loading = false;
   error = '';
+  sourceId = ''; // Eindeutige ID für das aktuelle Dokument (Filename oder URL)
 
   route = inject(ActivatedRoute);
  
@@ -66,7 +67,10 @@ export class Lernplan {
  
   onFileSelected(event: Event): void {
     const file = (event.target as HTMLInputElement).files?.[0];
-    if (file) this.readFile(file);
+    if (file) {
+      this.sourceId = file.name;
+      this.readFile(file);
+    }
   }
  
   private readFile(file: File): void {
@@ -74,6 +78,7 @@ export class Lernplan {
       this.error = 'Bitte eine .md-Datei auswählen.';
       return;
     }
+    this.sourceId = file.name;
     this.error = '';
     this.loading = true;
     const reader = new FileReader();
@@ -95,6 +100,7 @@ export class Lernplan {
       const response = await fetch(url);
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       const text = await response.text();
+      this.sourceId = url.split('/').pop() || url;
       this.render(text);
     } catch (err) {
       this.error = `Fehler beim Laden: ${(err as Error).message}`;
@@ -121,15 +127,25 @@ export class Lernplan {
 
   // Innerhalb der render() Methode:
 
+  let taskIndex = 0;
   renderer.listitem = (item: Tokens.ListItem): string => {
-    // Wir parsen den Text des Items manuell als Inline-Markdown, 
-    // damit Links [text](url) auch wirklich zu <a> Tags werden.
     const content = marked.parseInline(item.text, { gfm: true });
 
     if (item.task) {
-      const checked = item.checked ? 'checked' : '';
-      const cls = item.checked ? 'task-item task-item--done' : 'task-item';
-      return `<li class="${cls}"><label><input type="checkbox" ${checked}/><span>${content}</span></label></li>`;
+      const index = taskIndex++;
+      // Stand aus LocalStorage laden
+      const savedState = localStorage.getItem(`task-state-${this.sourceId}-${index}`);
+      const isChecked = savedState === 'true' || (savedState === null && item.checked);
+      
+      const checkedAttr = isChecked ? 'checked' : '';
+      const cls = isChecked ? 'task-item task-item--done' : 'task-item';
+      
+      return `<li class="${cls}">
+        <label>
+          <input type="checkbox" ${checkedAttr} data-task-index="${index}"/>
+          <span>${content}</span>
+        </label>
+      </li>`;
     }
     
     return `<li>${content}</li>`;
@@ -147,13 +163,29 @@ export class Lernplan {
   private parseInlineTokens(tokens: any[]): string {
     return tokens.map(token => {
       if (token.type === 'text') return token.text;
-      // Falls marked den Link bereits erkannt hat, ist es ein 'link' token
       if (token.type === 'link') {
         return `<a href="${token.href}" title="${token.title || ''}" target="_blank" rel="noopener noreferrer">${token.text}</a>`;
       }
-      // Fallback für andere inline-Elemente (fett, kursiv, etc.)
       return token.raw;
     }).join('');
+  }
+
+  onTaskChange(event: Event): void {
+    const target = event.target as HTMLInputElement;
+    if (target && target.type === 'checkbox' && target.dataset['taskIndex'] !== undefined) {
+      const index = target.dataset['taskIndex'];
+      const key = `task-state-${this.sourceId}-${index}`;
+      const isChecked = target.checked;
+      
+      localStorage.setItem(key, isChecked ? 'true' : 'false');
+      
+      // CSS Klasse für das li-Element umschalten (für die Durchstreichung)
+      const li = target.closest('li');
+      if (li) {
+        if (isChecked) li.classList.add('task-item--done');
+        else li.classList.remove('task-item--done');
+      }
+    }
   }
 
   

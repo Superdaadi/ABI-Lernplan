@@ -27,7 +27,12 @@
   <div *ngIf="error" class="error-msg">{{ error }}</div>
 
   <!-- ── Rendered markdown ── -->
-  <article *ngIf="renderedHtml && !loading" class="md-body" [innerHTML]="renderedHtml"></article>
+  <article
+    *ngIf="renderedHtml && !loading"
+    class="md-body"
+    [innerHTML]="renderedHtml"
+    (change)="onTaskChange($event)"
+  ></article>
 
   <!-- ── Reload button ── -->
   <!--button
