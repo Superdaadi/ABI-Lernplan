@@ -1,0 +1,145 @@
+/* ── Page ─────────────────────────────────────────────────────────────────── */
+
+.home {
+  min-height: 100vh;
+  background: var(--bg-color);
+  padding: 3rem 2rem 5rem;
+  font-family: 'DM Sans', system-ui, sans-serif;
+}
+
+/* ── Header ───────────────────────────────────────────────────────────────── */
+
+.header {
+  max-width: 900px;
+  margin: 0 auto 3rem;
+}
+
+.header-title {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 3rem;
+  font-weight: 400;
+  color: var(--text-primary);
+  margin: 0 0 0.25rem;
+  letter-spacing: -0.02em;
+}
+
+.header-sub {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  margin: 0;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+/* ── Fächer Grid ──────────────────────────────────────────────────────────── */
+
+.faecher-grid {
+  max-width: 900px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  align-items: start;
+  justify-items: center;
+}
+
+@media (max-width: 600px) {
+  .home {
+    padding: 2rem 1rem 4rem;
+  }
+
+  .header-title {
+    font-size: 2.25rem;
+  }
+}
+
+/* ── Fach Card ────────────────────────────────────────────────────────────── */
+
+.fach-card {
+  background: var(--card-bg);
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid var(--card-border);
+  cursor: pointer;
+  width: 100%;
+}
+
+/* Color variants */
+.fach-card--gruen .fach-header {
+  background: #1f5c3e;
+}
+
+.fach-card--blau .fach-header {
+  background: #1a3a5c;
+}
+
+/* ── Fach Header ──────────────────────────────────────────────────────────── */
+
+.fach-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.25rem 1.5rem;
+}
+
+.fach-kuerzel {
+  width: 48px;
+  height: 48px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #ffffff;
+  letter-spacing: 0.05em;
+  flex-shrink: 0;
+}
+
+.fach-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.fach-name {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.lernplan-link {
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 0.82rem;
+  color: rgba(255, 255, 255, 0.7);
+  text-align: left;
+  font-family: inherit;
+  transition: color 0.15s;
+}
+
+.lernplan-link:hover {
+  color: #ffffff;
+}
+
+
+
+/* ── Spinner ──────────────────────────────────────────────────────────────── */
+
+.spinner {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  border: 2px solid #e0ddd8;
+  border-top-color: #5a8a70;
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}

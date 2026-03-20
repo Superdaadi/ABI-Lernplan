@@ -1,0 +1,13 @@
+<nav class="navbar">
+  <a class="navbar-brand" href="#">Lernplan</a>
+  <div class="navbar-spacer"></div>
+  <div class="theme-switch-wrapper">
+    <label class="theme-switch" for="checkbox">
+      <input type="checkbox" id="checkbox" [checked]="isDarkMode()" (change)="toggleDarkMode()" />
+      <div class="slider round">
+        <span class="icon sun">☀️</span>
+        <span class="icon moon">🌙</span>
+      </div>
+    </label>
+  </div>
+</nav>

@@ -1,1 +1,326 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+  --bg-color: #f4f1eb;
+  --text-primary: #1a1a18;
+  --text-secondary: #8a8680;
+  --text-muted: #b0ab9f;
+  --nav-bg: #ffffff;
+  --nav-text: #1a1a18;
+  --card-bg: #ffffff;
+  --card-border: #e8e4dc;
+  --btn-bg: #f7f5f0;
+  --btn-hover: #efecea;
+  --btn-border: #e8e4dc;
+  --preview-bg: #faf9f6;
+  --accent-color: #5a8a70;
+  --link-color: #254979;
+
+  --blockquote-bg: #f6f8fa;
+  --blockquote-border: #d0d7de;
+  --blockquote-accent: #8b949e;
+}
+
+* {
+  font-family: 'DM Sans', "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+body.darkmode {
+  --bg-color: #0d1117;
+  --text-primary: #ffffff;
+  --text-secondary: #8b949e;
+  --text-muted: #484f58;
+  --nav-bg: #161b22;
+  --nav-text: #f0f6fc;
+  --card-bg: #161b22;
+  --card-border: #30363d;
+  --btn-bg: #21262d;
+  --btn-hover: #30363d;
+  --btn-border: #30363d;
+  --preview-bg: #010409;
+  --accent-color: #58a6ff;
+  --link-color: #58a6ff;
+
+  --blockquote-bg: #161b22;
+  --blockquote-border: #30363d;
+  --blockquote-accent: #8b949e;
+}
+
+html {
+  height: 100%;
+}
+
+a {
+  color: var(--link-color);
+  font-weight: 350;
+  letter-spacing: 0.02em;
+}
+
+/* ── Markdown Rendering (Global) ─────────────────────────────────────────── */
+
+.md-body {
+  font-family: 'Lora', Georgia, serif;
+  font-size: clamp(0.95rem, 0.5vw + 0.9rem, 1.05rem);
+  line-height: 1.7;
+  color: var(--text-primary);
+  background: var(--card-bg);
+  border-radius: 14px;
+  padding: clamp(1.5rem, 5vw, 2.75rem);
+  border: 1px solid var(--card-border);
+}
+
+@media (max-width: 600px) {
+  .md-body {
+    border-radius: 0;
+    border-left: none;
+    border-right: none;
+  }
+}
+
+/* ── Headings ─────────────────────────────────────────────────────────────── */
+
+.md-body h1,
+.md-body h2,
+.md-body h3,
+.md-body h4 {
+  font-family: system-ui, sans-serif;
+  font-weight: 700;
+  color: var(--text-primary);
+  /* Fixed: Always use theme text color */
+  margin: 2rem 0 0.75rem;
+  line-height: 1.3;
+}
+
+.md-body h1 {
+  font-size: clamp(1.5rem, 5vw, 1.85rem);
+  border-bottom: 1px solid var(--card-border);
+  padding-bottom: 0.5rem;
+  margin-top: 0;
+}
+
+.md-body h2 {
+  font-size: clamp(1.2rem, 4vw, 1.45rem);
+  border-bottom: 1px solid var(--card-border);
+  padding-bottom: 0.35rem;
+}
+
+.md-body h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.md-body h4 {
+  font-size: 1rem;
+  color: var(--text-muted);
+}
+
+/* ── Paragraphs ───────────────────────────────────────────────────────────── */
+
+.md-body p {
+  margin: 0 0 1rem;
+}
+
+.md-body strong {
+  font-weight: 700;
+}
+
+.md-body em {
+  font-style: italic;
+}
+
+.md-body a {
+  color: var(--link-color);
+  font-size: 0.95em;
+  letter-spacing: 0.03em;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  cursor: pointer;
+  word-break: break-word;
+}
+
+.md-body a:hover {
+  opacity: 0.75;
+  filter: brightness(1.2);
+}
+
+/* ── Horizontal rule ──────────────────────────────────────────────────────── */
+
+.md-body hr {
+  border: none;
+  border-top: 1px solid var(--card-border);
+  margin: 2rem 0;
+}
+
+/* ── Code ─────────────────────────────────────────────────────────────────── */
+
+.md-body code {
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  font-size: 0.88em;
+  background: var(--preview-bg);
+  border-radius: 4px;
+  padding: 0.15em 0.4em;
+  color: var(--accent-color);
+}
+
+.md-body pre {
+  background: #1e1e1e;
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+}
+
+.md-body pre code {
+  background: transparent;
+  color: #d4d4d4;
+  padding: 0;
+  font-size: 0.875rem;
+}
+
+/* ── Blockquote ───────────────────────────────────────────────────────────── */
+
+.md-body blockquote {
+  border-left: 0.25em solid var(--blockquote-accent);
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  background: var(--blockquote-bg);
+  border-radius: 6px;
+  border: 1px solid var(--blockquote-border);
+  border-left-width: 0.25em;
+  color: var(--text-secondary);
+}
+
+.md-body blockquote p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* ── Tables ───────────────────────────────────────────────────────────────── */
+
+.md-body table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.93rem;
+  margin: 1.25rem 0;
+  font-family: system-ui, sans-serif;
+}
+
+.md-body th {
+  background: var(--preview-bg);
+  text-align: left;
+  padding: 0.55rem 0.9rem;
+  font-weight: 600;
+  border-bottom: 2px solid var(--card-border);
+  color: var(--text-primary);
+}
+
+.md-body td {
+  padding: 0.5rem 0.9rem;
+  border-bottom: 1px solid var(--card-border);
+  color: var(--text-primary);
+}
+
+.md-body tr:last-child td {
+  border-bottom: none;
+}
+
+.md-body tr:hover td {
+  background: var(--preview-bg);
+}
+
+/* ── Lists ────────────────────────────────────────────────────────────────── */
+
+.md-body ul,
+.md-body ol {
+  padding-left: 1.5rem;
+  margin: 0.5rem 0 1rem;
+}
+
+.md-body li {
+  margin-bottom: 0.8rem;
+}
+
+/* ── Task list ────────────────────────────────────────────────────────────── */
+
+.md-body .task-item {
+  list-style: none;
+  margin-left: -1.5rem;
+  padding-left: 0;
+}
+
+.md-body .task-item label {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  cursor: pointer;
+  padding: 0.3rem 0.5rem;
+  border-radius: 8px;
+  transition: background 0.12s;
+}
+
+.md-body .task-item label:hover {
+  background: var(--preview-bg);
+}
+
+.md-body .task-item input[type='checkbox'] {
+  appearance: none;
+  -webkit-appearance: none;
+  flex-shrink: 0;
+  width: 17px;
+  height: 17px;
+  margin-top: 3px;
+  border: 2px solid var(--card-border);
+  border-radius: 4px;
+  background: var(--card-bg);
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+  position: relative;
+}
+
+.md-body .task-item input[type='checkbox']:checked {
+  background: var(--accent-color);
+  border-color: var(--accent-color);
+}
+
+.md-body .task-item input[type='checkbox']:checked::after {
+  content: '';
+  position: absolute;
+  left: 3px;
+  top: 0px;
+  width: 5px;
+  height: 9px;
+  border: 2px solid #fff;
+  border-top: none;
+  border-left: none;
+  transform: rotate(45deg);
+}
+
+.md-body .task-item input[type='checkbox']:hover:not(:checked) {
+  border-color: var(--accent-color);
+}
+
+.md-body .task-item span {
+  line-height: 1.6;
+}
+
+.md-body .task-item--done span {
+  text-decoration: line-through;
+  color: var(--text-muted);
+}
+
+/* ── Images ───────────────────────────────────────────────────────────────── */
+
+.md-body img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin: 0.5rem 0;
+}

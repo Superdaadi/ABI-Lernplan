@@ -1,0 +1,28 @@
+<div class="home">
+
+  <header class="header">
+    <h1 class="header-title">Lernplaner</h1>
+    <p class="header-sub">Abitur 2026</p>
+  </header>
+
+  <!-- ── Fächer ── -->
+  <section class="faecher-grid">
+    @for (fach of facher; track fach.kuerzel) {
+    <div class="fach-card fach-card--{{ fach.farbe }}" (click)="navigiereZuLernplan(fach)">
+
+      <!-- Fach Header -->
+      <div class="fach-header">
+        <div class="fach-kuerzel">{{ fach.kuerzel }}</div>
+        <div class="fach-info">
+          <span class="fach-name">{{ fach.name }}</span>
+          <button class="lernplan-link">
+            → Zur Stoffübersicht
+          </button>
+        </div>
+      </div>
+
+    </div>
+    }
+  </section>
+
+</div>

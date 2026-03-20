@@ -1,0 +1,426 @@
+:host {
+  --bg-base:       #ffffff;
+  --bg-surface:    #f8f9fa;
+  --bg-raised:     #f1f3f5;
+  --bg-hover:      #e9ecef;
+
+  --border-subtle: #dee2e6;
+  --border-mid:    #ced4da;
+  --border-strong: #adb5bd;
+
+  --text-primary:  #212529;
+  --text-secondary:#495057;
+  --text-muted:    #6c757d;
+
+  /* Rest of tokens... */
+  --color-q12:     #4a36a0;
+  --color-q12-bg:  #e0d8ff;
+  --color-q12-bd:  #b0a0f0;
+  --color-q13:     #0f6b50;
+  --color-q13-bg:  #d8f3dc;
+  --color-q13-bd:  #74c69d;
+  --color-rest:    #495057;
+  --color-rest-bg: #f8f9fa;
+  --color-rest-bd: #dee2e6;
+  --color-sim:     #856404;
+  --color-sim-bg:  #fff3cd;
+  --color-sim-bd:  #ffeeba;
+  --color-pause:   #721c24;
+  --color-pause-bg:#f8d7da;
+  --color-pause-bd:#f5c6cb;
+
+  --leifi-text:    #4a36a0;
+  --leifi-bg:      #e0d8ff;
+  --leifi-bd:      #b0a0f0;
+  --leifi-hover-bg:#d1c4ff;
+  --leifi-hover-bd:#7058cc;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+
+  --font-body: 'DM Sans', 'Helvetica Neue', sans-serif;
+  --font-mono: 'IBM Plex Mono', monospace;
+
+  display: block;
+  font-family: var(--font-body);
+  color: var(--text-primary);
+}
+
+:host-context(body.darkmode) {
+  --bg-base:       #0d1117;
+  --bg-surface:    #161b22;
+  --bg-raised:     #21262d;
+  --bg-hover:      #30363d;
+
+  --border-subtle: #30363d;
+  --border-mid:    #484f58;
+  --border-strong: #8b949e;
+
+  --text-primary:  #ffffff;
+  --text-secondary:#8b949e;
+  --text-muted:    #484f58;
+
+  /* Keep existing stage colors as they are part of the content structure */
+  --color-q12:     #c4beff;
+  --color-q12-bg:  #1e1950;
+  --color-q12-bd:  #3b3480;
+  --color-q13:     #6ddcb0;
+  --color-q13-bg:  #063328;
+  --color-q13-bd:  #0f6b50;
+  --color-rest:    #b8b5ac;
+  --color-rest-bg: #252523;
+  --color-rest-bd: #3a3a38;
+  --color-sim:     #ffd47a;
+  --color-sim-bg:  #261b04;
+  --color-sim-bd:  #5a420a;
+  --color-pause:   #f09090;
+  --color-pause-bg:#270d0d;
+  --color-pause-bd:#5a1e1e;
+
+  --leifi-text:    #58a6ff;
+  --leifi-bg:      #161b22;
+  --leifi-bd:      #30363d;
+  --leifi-hover-bg:#30363d;
+  --leifi-hover-bd:#58a6ff;
+}
+
+/* ── Layout ─────────────────────────────────────────────────────────────────── */
+.lernplan {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 2rem 1.25rem 4rem;
+  background: var(--bg-base);
+  min-height: 100vh;
+}
+
+.lernplan__header {
+  margin-bottom: 2rem;
+}
+
+.lernplan__title {
+  font-size: 1.6rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  margin: 0 0 0.3rem;
+  color: var(--text-primary);
+}
+
+.lernplan__subtitle {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  margin: 0;
+}
+
+/* ── Tabs ───────────────────────────────────────────────────────────────────── */
+.lernplan__tabs {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.tab {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 8px 14px;
+  border: 1.5px solid var(--border-mid);
+  border-radius: 10px;
+  background: var(--bg-surface);
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+  font-family: inherit;
+  text-align: left;
+}
+
+.tab:hover {
+  border-color: var(--border-strong);
+  background: var(--bg-raised);
+}
+
+.tab__week {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.tab__label {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+}
+
+.tab--active {
+  border-color: #7058cc;
+  background: #1a1040;
+}
+
+.tab--active .tab__week {
+  color: #a090e0;
+}
+
+.tab--active .tab__label {
+  color: #c8b4ff;
+}
+
+/* ── Progress ───────────────────────────────────────────────────────────────── */
+.progress {
+  height: 3px;
+  background: var(--border-subtle);
+  border-radius: 2px;
+  margin-bottom: 1.5rem;
+  overflow: hidden;
+}
+
+.progress__fill {
+  height: 100%;
+  background: #7058cc;
+  border-radius: 2px;
+  transition: width 0.4s ease;
+}
+
+/* ── Week ───────────────────────────────────────────────────────────────────── */
+.woche__meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 1rem;
+}
+
+.woche__untertitel {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+/* ── Day accordion ──────────────────────────────────────────────────────────── */
+.tage {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.tag-row {
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  transition: border-color 0.15s;
+}
+
+.tag-row:hover {
+  border-color: var(--border-mid);
+}
+
+.tag-row--open {
+  border-color: var(--border-mid);
+}
+
+.tag-row__head {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  background: var(--bg-surface);
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+  text-align: left;
+  transition: background 0.1s;
+}
+
+.tag-row__head:hover {
+  background: var(--bg-raised);
+}
+
+.tag-row__wochentag {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  min-width: 80px;
+}
+
+.tag-row__titel {
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  flex: 1;
+}
+
+.tag-row__arrow {
+  font-size: 0.65rem;
+  color: var(--text-muted);
+  transition: transform 0.2s;
+}
+
+.tag-row--open .tag-row__arrow {
+  transform: rotate(90deg);
+}
+
+.tag-row__body {
+  padding: 10px 14px;
+  border-top: 1px solid var(--border-subtle);
+  background: var(--bg-base);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  animation: slideDown 0.2s ease;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ── Block ──────────────────────────────────────────────────────────────────── */
+.block {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+}
+
+.block:not(:last-child) {
+  padding-bottom: 10px;
+  border-bottom: 1px dashed var(--border-subtle);
+}
+
+.block__time {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  font-family: var(--font-mono);
+  min-width: 76px;
+  padding-top: 2px;
+}
+
+.block__content {
+  flex: 1;
+}
+
+.block__header {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin-bottom: 4px;
+  flex-wrap: wrap;
+}
+
+.block__thema {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.block__beschreibung {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  margin: 0 0 6px;
+  line-height: 1.5;
+}
+
+.block__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+/* ── LeiFi links — lila ─────────────────────────────────────────────────────── */
+.leifi-link {
+  display: inline-block;
+  font-size: 0.72rem;
+  color: var(--leifi-text);
+  border: 1px solid var(--leifi-bd);
+  background: var(--leifi-bg);
+  border-radius: 20px;
+  padding: 2px 10px;
+  text-decoration: none;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.leifi-link:hover {
+  background: var(--leifi-hover-bg);
+  border-color: var(--leifi-hover-bd);
+}
+
+/* ── Tags ───────────────────────────────────────────────────────────────────── */
+.tag {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: 20px;
+  letter-spacing: 0.02em;
+}
+
+.tag--sm {
+  font-size: 0.68rem;
+  padding: 2px 8px;
+}
+
+.tag--q12 {
+  background: var(--color-q12-bg);
+  color: var(--color-q12);
+  border: 1px solid var(--color-q12-bd);
+}
+
+.tag--q13 {
+  background: var(--color-q13-bg);
+  color: var(--color-q13);
+  border: 1px solid var(--color-q13-bd);
+}
+
+.tag--rest,
+.tag--wiederholung {
+  background: var(--color-rest-bg);
+  color: var(--color-rest);
+  border: 1px solid var(--color-rest-bd);
+}
+
+.tag--sim,
+.tag--simulation {
+  background: var(--color-sim-bg);
+  color: var(--color-sim);
+  border: 1px solid var(--color-sim-bd);
+}
+
+.tag--pause {
+  background: var(--color-pause-bg);
+  color: var(--color-pause);
+  border: 1px solid var(--color-pause-bd);
+}
+
+/* ── Tip box ────────────────────────────────────────────────────────────────── */
+.tipp {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  margin-top: 1rem;
+  padding: 12px 14px;
+  background: #1a1700;
+  border: 1px solid #3a3200;
+  border-left: 3px solid #a89000;
+  border-radius: var(--radius-md);
+}
+
+.tipp__icon {
+  font-size: 1rem;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+
+.tipp__text {
+  font-size: 0.8rem;
+  color: #c8c090;
+  line-height: 1.6;
+  margin: 0;
+}

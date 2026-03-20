@@ -1,0 +1,801 @@
+{
+  "meta": {
+    "titel": "Physik Abitur Lernplan",
+    "klasse": "Q12 + Q13 (eA)",
+    "pruefungsvorbereitung": "Abitur Bayern",
+    "dauer_wochen": 4,
+    "stunden_pro_tag": 3,
+    "erstellt": "2026-03-18"
+  },
+  "wochen": [
+    {
+      "id": 1,
+      "titel": "Felder & Magnetismus",
+      "untertitel": "Elektrisches Feld · Kondensator · Magnetismus",
+      "stufe": "Q12",
+      "farbe": "purple",
+      "tipp": "Feldlinienbilder immer selbst zeichnen, nicht nur anschauen. Im Abitur kommen oft Skizzenaufgaben. Formelsammlung anlegen: E, B, F, C, W, τ.",
+      "tage": [
+        {
+          "id": 1,
+          "wochentag": "Montag",
+          "tag_nr": 1,
+          "titel": "Elektrisches Feld & Feldlinien",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "01:00",
+              "thema": "Feldstärke E, Feldlinienbilder",
+              "beschreibung": "Homogenes Feld, Radialsymmetrie, Dipol – Skizzen üben. Formel F = E·Q festigen.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Grundwissen E-Feld",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld/grundwissen/elektrisches-feld"
+                },
+                {
+                  "label": "LeiFi: Aufgaben E-Feld",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld/aufgaben"
+                }
+              ]
+            },
+            {
+              "zeit_von": "01:00",
+              "zeit_bis": "02:00",
+              "thema": "Potential & Spannung",
+              "beschreibung": "Äquipotentiallinien, Arbeit im E-Feld. Zusammenhang U = E · d.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Spannung im E-Feld",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld/grundwissen/elektrische-spannung"
+                }
+              ]
+            },
+            {
+              "zeit_von": "02:00",
+              "zeit_bis": "03:00",
+              "thema": "Aufgaben & Übung",
+              "beschreibung": "Abituraufgaben zum E-Feld rechnen. Skizzen und Rechnungen.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Abituraufgaben E-Feld",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld/examen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "wochentag": "Dienstag",
+          "tag_nr": 2,
+          "titel": "Plattenkondensator",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "01:00",
+              "thema": "Kapazität & Energie",
+              "beschreibung": "C = ε₀·εᵣ·A/d und W = ½·C·U². Einheiten und Größen verstehen.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Kondensator Grundwissen",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/kondensator/grundwissen/kondensator"
+                }
+              ]
+            },
+            {
+              "zeit_von": "01:00",
+              "zeit_bis": "02:00",
+              "thema": "Lade-/Entladevorgänge",
+              "beschreibung": "Zeitkonstante τ = R·C. Exponentieller Verlauf, Kurven skizzieren.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Laden & Entladen",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/kondensator/grundwissen/laden-und-entladen-eines-kondensators"
+                },
+                {
+                  "label": "LeiFi: Aufgaben dazu",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/kondensator/aufgaben/laden-und-entladen-aufgaben"
+                }
+              ]
+            },
+            {
+              "zeit_von": "02:00",
+              "zeit_bis": "03:00",
+              "thema": "Dielektrika & Abituraufgaben",
+              "beschreibung": "Polarisation, Influenz, εᵣ-Effekt. Dann Abituraufgaben rechnen.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Abitur Kondensator",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/kondensator/examen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "wochentag": "Mittwoch",
+          "tag_nr": 3,
+          "titel": "Magnetisches Feld & Lorentzkraft",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "01:00",
+              "thema": "Magnetfeld & Flussdichte B",
+              "beschreibung": "Feldlinien bei Spulen, B-Felder, magnetischer Fluss Φ. 3-Finger-Regel.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Magnetisches Feld",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/magnetisches-feld/grundwissen/magnetisches-feld"
+                }
+              ]
+            },
+            {
+              "zeit_von": "01:00",
+              "zeit_bis": "02:00",
+              "thema": "Lorentzkraft FL = q·v·B",
+              "beschreibung": "Kreisbahn: Lorentzkraft = Zentripetalkraft. Herleitung r = mv/qB.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Lorentzkraft",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/magnetisches-feld/grundwissen/lorentzkraft"
+                },
+                {
+                  "label": "LeiFi: Aufgaben Lorentzkraft",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/magnetisches-feld/aufgaben/lorentzkraft-aufgaben"
+                }
+              ]
+            },
+            {
+              "zeit_von": "02:00",
+              "zeit_bis": "03:00",
+              "thema": "Wien-Filter, Hall-Effekt, Zyklotron",
+              "beschreibung": "Prinzip jeder Anwendung verstehen, v = E/B ableiten, Massenspektrometer.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Geschwindigkeitsfilter",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/magnetisches-feld/grundwissen/geschwindigkeitsfilter"
+                },
+                {
+                  "label": "LeiFi: Hall-Effekt",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/magnetisches-feld/grundwissen/hall-effekt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "wochentag": "Donnerstag",
+          "tag_nr": 4,
+          "titel": "Abituraufgaben Felder & Magnetismus",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "01:30",
+              "thema": "Gemischte Aufgaben (Felder)",
+              "beschreibung": "Abituraufgaben aus Bayern zu E-Feld & Kondensator unter Zeitdruck.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Examen E-Feld",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld/examen"
+                }
+              ]
+            },
+            {
+              "zeit_von": "01:30",
+              "zeit_bis": "03:00",
+              "thema": "Gemischte Aufgaben (Magnetismus)",
+              "beschreibung": "Abituraufgaben zu Lorentzkraft, Zyklotron, Massenspektrometer.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Examen Magnetfeld",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/magnetisches-feld/examen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "wochentag": "Freitag",
+          "tag_nr": 5,
+          "titel": "Fehlerrechnung & Wochenwiederholung",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "01:00",
+              "thema": "Fehlerrechnung",
+              "beschreibung": "Systematische/statistische Fehler, Standardabweichung, Linearisierung. Kommt oft als Teilaufgabe im Abi!",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Fehlerrechnung",
+                  "url": "https://www.leifiphysik.de/mechanik/fehlerrechnung/grundwissen"
+                }
+              ]
+            },
+            {
+              "zeit_von": "01:00",
+              "zeit_bis": "03:00",
+              "thema": "Schwachstellen aufholen",
+              "beschreibung": "Was war schwierig? Gezielt nochmal nacharbeiten. Karteikarten für Formeln anlegen.",
+              "stufe": "Wiederholung",
+              "leifi_links": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titel": "Induktion & Schwingungen",
+      "untertitel": "Induktion · Selbstinduktion · Schwingungen & Wellen",
+      "stufe": "Q12",
+      "farbe": "purple",
+      "tipp": "Selbstinduktion und Kondensator sind analoge Konzepte (L ↔ C, I ↔ U, W_mag ↔ W_el). Diesen Zusammenhang im Kopf behalten – spart Lernzeit!",
+      "tage": [
+        {
+          "id": 6,
+          "wochentag": "Montag",
+          "tag_nr": 6,
+          "titel": "Induktionsgesetz & Lenz'sche Regel",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "01:00",
+              "thema": "U_ind = −n · Φ̇",
+              "beschreibung": "Induktion durch Flächen- und Magnetfeldänderung. Vorzeichen und Lenz'sche Regel.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Induktionsgesetz",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/grundwissen/induktionsgesetz"
+                }
+              ]
+            },
+            {
+              "zeit_von": "01:00",
+              "zeit_bis": "02:00",
+              "thema": "Selbstinduktion & Induktivität L",
+              "beschreibung": "W_mag = ½·L·I². Ein- und Ausschaltvorgänge bei Spulen.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Selbstinduktion",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/grundwissen/selbstinduktion"
+                },
+                {
+                  "label": "LeiFi: Aufgaben Induktion",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgaben"
+                }
+              ]
+            },
+            {
+              "zeit_von": "02:00",
+              "zeit_bis": "03:00",
+              "thema": "Abituraufgaben Induktion",
+              "beschreibung": "Abituraufgaben rechnen, Lenz'sche Regel anwenden.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Examen Induktion",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/examen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "wochentag": "Dienstag",
+          "tag_nr": 7,
+          "titel": "Schwingungen: harmonisch & elektromagnetisch",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "01:00",
+              "thema": "Harmonische Schwingungen",
+              "beschreibung": "DGL, Zeigerdiagramm, Amplitude, Frequenz, Phasenbeziehungen.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Harmonische Schwingung",
+                  "url": "https://www.leifiphysik.de/mechanik/schwingungen/grundwissen/harmonische-schwingung"
+                }
+              ]
+            },
+            {
+              "zeit_von": "01:00",
+              "zeit_bis": "02:00",
+              "thema": "Thomsonsche Schwingungsformel",
+              "beschreibung": "T = 2π√(LC). Energie im Schwingkreis. Vergleich zu mechanischen Schwingungen.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Schwingkreis",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/schwingkreis/grundwissen/schwingkreis"
+                }
+              ]
+            },
+            {
+              "zeit_von": "02:00",
+              "zeit_bis": "03:00",
+              "thema": "Aufgaben Schwingkreis",
+              "beschreibung": "Abituraufgaben zum Schwingkreis.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Aufgaben Schwingkreis",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/schwingkreis/aufgaben"
+                },
+                {
+                  "label": "LeiFi: Examen Schwingkreis",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/schwingkreis/examen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "wochentag": "Mittwoch",
+          "tag_nr": 8,
+          "titel": "Wellen: Eigenschaften & Interferenz",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "01:30",
+              "thema": "Reflexion, Brechung, Beugung, Interferenz",
+              "beschreibung": "Wellengleichung, Gangunterschied, konstruktive/destruktive Interferenz. Doppelspalt.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Wellen Grundwissen",
+                  "url": "https://www.leifiphysik.de/mechanik/wellen/grundwissen/wellen"
+                },
+                {
+                  "label": "LeiFi: Interferenz",
+                  "url": "https://www.leifiphysik.de/optik/beugung-und-interferenz/grundwissen/interferenz"
+                }
+              ]
+            },
+            {
+              "zeit_von": "01:30",
+              "zeit_bis": "03:00",
+              "thema": "Elektromagnetische Wellen & Hertzscher Dipol",
+              "beschreibung": "Spektrum, c = λ·f, Hertzscher Dipol als Sender. Verbindung zu Schwingkreis.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: EM-Wellen",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-wellen/grundwissen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "wochentag": "Donnerstag",
+          "tag_nr": 9,
+          "titel": "Fotoeffekt & Photonenmodell",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "01:30",
+              "thema": "Photoelektrischer Effekt",
+              "beschreibung": "E = h·f, Austrittsarbeit, Gegenfeldmethode, Bestimmung von h. Einstein-Gleichung.",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Photoeffekt",
+                  "url": "https://www.leifiphysik.de/quantenphysik/photoeffekt/grundwissen/photoeffekt"
+                },
+                {
+                  "label": "LeiFi: Aufgaben Photoeffekt",
+                  "url": "https://www.leifiphysik.de/quantenphysik/photoeffekt/aufgaben"
+                }
+              ]
+            },
+            {
+              "zeit_von": "01:30",
+              "zeit_bis": "03:00",
+              "thema": "Röntgenstrahlung & Bragg-Reflexion",
+              "beschreibung": "Bremsstrahlung, λ_min, charakteristisches Spektrum, Bragg: n·λ = 2d·sin(θ).",
+              "stufe": "Q12",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Röntgenstrahlung",
+                  "url": "https://www.leifiphysik.de/quantenphysik/roentgenstrahlung/grundwissen"
+                },
+                {
+                  "label": "LeiFi: Examen Röntgen",
+                  "url": "https://www.leifiphysik.de/quantenphysik/roentgenstrahlung/examen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "wochentag": "Freitag",
+          "tag_nr": 10,
+          "titel": "Q12 Generalwiederholung",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "03:00",
+              "thema": "Alles aus Q12 nochmal",
+              "beschreibung": "Komplette Q12-Formelsammlung durchgehen. Schwächste Themen mit Abituraufgaben üben. Karteikarten kontrollieren.",
+              "stufe": "Wiederholung",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Elektrizitätslehre gesamt",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre"
+                },
+                {
+                  "label": "LeiFi: Quantenphysik gesamt",
+                  "url": "https://www.leifiphysik.de/quantenphysik"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titel": "Quanten & Atomphysik",
+      "untertitel": "Quantenobjekte · Atomhülle · Quantenmechanik",
+      "stufe": "Q13",
+      "farbe": "teal",
+      "tipp": "De-Broglie und Bragg-Reflexion kommen im Abi oft zusammen in einer Aufgabe. Unbedingt üben: Beschleunigungsspannung → Impuls → λ → Bragg.",
+      "tage": [
+        {
+          "id": 11,
+          "wochentag": "Montag",
+          "tag_nr": 11,
+          "titel": "De-Broglie-Wellenlänge & Elektronenbeugung",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "01:30",
+              "thema": "λ = h/p, Bragg-Bedingung",
+              "beschreibung": "Herleitung und Anwendung. Elektronenbeugungsröhre: Beugung an Graphit. Netzebenenabstand d bestimmen.",
+              "stufe": "Q13",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: De-Broglie",
+                  "url": "https://www.leifiphysik.de/quantenphysik/de-broglie-wellenlange/grundwissen"
+                },
+                {
+                  "label": "LeiFi: Aufgaben De-Broglie",
+                  "url": "https://www.leifiphysik.de/quantenphysik/de-broglie-wellenlange/aufgaben"
+                }
+              ]
+            },
+            {
+              "zeit_von": "01:30",
+              "zeit_bis": "03:00",
+              "thema": "Relativistische Korrektur",
+              "beschreibung": "λ = hc / √(E_kin² + 2E₀·E_kin) – wann gilt sie? Aufgaben dazu.",
+              "stufe": "Q13",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Examen De-Broglie",
+                  "url": "https://www.leifiphysik.de/quantenphysik/de-broglie-wellenlange/examen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "wochentag": "Dienstag",
+          "tag_nr": 12,
+          "titel": "Wahrscheinlichkeitsinterpretation & Unschärfe",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "01:30",
+              "thema": "Wellenfunktion Ψ und P ∝ |Ψ|²",
+              "beschreibung": "Stochastisches Verhalten, Welle-Teilchen-Dualismus, Interferenzstreifen bei Einzelphotonen.",
+              "stufe": "Q13",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Welle-Teilchen-Dualismus",
+                  "url": "https://www.leifiphysik.de/quantenphysik/welle-teilchen-dualismus/grundwissen"
+                }
+              ]
+            },
+            {
+              "zeit_von": "01:30",
+              "zeit_bis": "03:00",
+              "thema": "Heisenbergsche Unschärferelation",
+              "beschreibung": "Δx · Δp ≥ h/4π. MZI und Quantenradierer konzeptionell verstehen.",
+              "stufe": "Q13",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Unschärferelation",
+                  "url": "https://www.leifiphysik.de/quantenphysik/heisenbergsche-unschaerferelation/grundwissen"
+                },
+                {
+                  "label": "LeiFi: Aufgaben Unschärfe",
+                  "url": "https://www.leifiphysik.de/quantenphysik/heisenbergsche-unschaerferelation/aufgaben"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "wochentag": "Mittwoch",
+          "tag_nr": 13,
+          "titel": "Atomhülle: Röntgen & Fotoeffekt (Q13)",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "01:00",
+              "thema": "Bremsstrahlung & λ_G = hc/eU_b",
+              "beschreibung": "Grenzwellenlänge ableiten. Charakteristisches Spektrum: K_α, K_β-Übergänge.",
+              "stufe": "Q13",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Bremsstrahlung",
+                  "url": "https://www.leifiphysik.de/quantenphysik/roentgenstrahlung/grundwissen/bremsstrahlung"
+                }
+              ]
+            },
+            {
+              "zeit_von": "01:00",
+              "zeit_bis": "02:00",
+              "thema": "Photoeffekt (Hallwachs), Einstein-Gleichung",
+              "beschreibung": "E_Photon = W_Austritt + E_kin,max. Bestimmung von h. Aufgaben mit Gegenfeldmethode.",
+              "stufe": "Q13",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Hallwachs-Versuch",
+                  "url": "https://www.leifiphysik.de/quantenphysik/photoeffekt/grundwissen/hallwachs-versuch"
+                }
+              ]
+            },
+            {
+              "zeit_von": "02:00",
+              "zeit_bis": "03:00",
+              "thema": "Abituraufgaben Quantenphysik",
+              "beschreibung": "Examen-Aufgaben zu Röntgen und Photoeffekt.",
+              "stufe": "Q13",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Examen Photoeffekt",
+                  "url": "https://www.leifiphysik.de/quantenphysik/photoeffekt/examen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "wochentag": "Donnerstag",
+          "tag_nr": 14,
+          "titel": "Atommodelle: Kastenpotential & Wasserstoff",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "01:30",
+              "thema": "Teilchen im Kastenpotential (Potenzialtopf)",
+              "beschreibung": "Stehende Wellen → diskrete Energieniveaus. Farbstoffmoleküle als Anwendung. Tunneleffekt konzeptionell.",
+              "stufe": "Q13",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Kastenpotential",
+                  "url": "https://www.leifiphysik.de/quantenphysik/atommodell/grundwissen/potenzialkasten"
+                }
+              ]
+            },
+            {
+              "zeit_von": "01:30",
+              "zeit_bis": "03:00",
+              "thema": "Wasserstoffatom & Quantenzahlen",
+              "beschreibung": "n, l, m, s – Bedeutung und Pauli-Prinzip. Hundsche Regel. Orbitalformen s, p, d.",
+              "stufe": "Q13",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Wasserstoffatom",
+                  "url": "https://www.leifiphysik.de/quantenphysik/atommodell/grundwissen/wasserstoffatom"
+                },
+                {
+                  "label": "LeiFi: Aufgaben Atomhülle",
+                  "url": "https://www.leifiphysik.de/quantenphysik/atommodell/aufgaben"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "wochentag": "Freitag",
+          "tag_nr": 15,
+          "titel": "Abituraufgaben Q13 Quanten",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "03:00",
+              "thema": "Gezieltes Aufgaben-Training",
+              "beschreibung": "Abituraufgaben zu allen Q13-Quantenthemen unter realen Bedingungen lösen. Fehler analysieren.",
+              "stufe": "Q13",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Examen De-Broglie",
+                  "url": "https://www.leifiphysik.de/quantenphysik/de-broglie-wellenlange/examen"
+                },
+                {
+                  "label": "LeiFi: Examen Unschärfe",
+                  "url": "https://www.leifiphysik.de/quantenphysik/heisenbergsche-unschaerferelation/examen"
+                },
+                {
+                  "label": "LeiFi: Examen Atommodell",
+                  "url": "https://www.leifiphysik.de/quantenphysik/atommodell/examen"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "titel": "Kernphysik & Puffer",
+      "untertitel": "Kernphysik · Simulation · Puffer & Generalprobe",
+      "stufe": "Q13",
+      "farbe": "teal",
+      "tipp": "Halte die letzten 2–3 Tage vor dem Abitur frei für leichte Wiederholung – kein neuer Stoff, kein Stress. Schlaf ist wichtiger als eine letzte Aufgabe.",
+      "tage": [
+        {
+          "id": 16,
+          "wochentag": "Montag",
+          "tag_nr": 16,
+          "titel": "Radioaktivität & Zerfallsgesetz",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "01:30",
+              "thema": "N(t) = N₀·e^(−λt), T₁/₂ = ln2/λ",
+              "beschreibung": "Zerfallsgesetz ableiten, Aktivität A in Becquerel, Halbwertszeit berechnen. Ionisationskammer.",
+              "stufe": "Q13",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Zerfallsgesetz",
+                  "url": "https://www.leifiphysik.de/kern-teilchenphysik/radioaktivitaet/grundwissen/zerfallsgesetz"
+                },
+                {
+                  "label": "LeiFi: Aufgaben Radioaktivität",
+                  "url": "https://www.leifiphysik.de/kern-teilchenphysik/radioaktivitaet/aufgaben"
+                }
+              ]
+            },
+            {
+              "zeit_von": "01:30",
+              "zeit_bis": "03:00",
+              "thema": "α, β, γ-Strahlung",
+              "beschreibung": "Eigenschaften und Nachweis der drei Strahlungsarten. Strahlenschutz. Abituraufgaben.",
+              "stufe": "Q13",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Strahlungsarten",
+                  "url": "https://www.leifiphysik.de/kern-teilchenphysik/radioaktivitaet/grundwissen/strahlungsarten"
+                },
+                {
+                  "label": "LeiFi: Examen Kernphysik",
+                  "url": "https://www.leifiphysik.de/kern-teilchenphysik/radioaktivitaet/examen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "wochentag": "Dienstag",
+          "tag_nr": 17,
+          "titel": "Puffer: Schwächste Themen aufholen",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "03:00",
+              "thema": "Gezielt Lücken schließen",
+              "beschreibung": "Welche Themen sind noch unsicher? Heute gezielt nacharbeiten. Aufgaben aus dem Examen-Bereich von LeiFi zu den schwächsten Kapiteln lösen.",
+              "stufe": "Wiederholung",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Startseite (alle Themen)",
+                  "url": "https://www.leifiphysik.de"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "wochentag": "Mittwoch",
+          "tag_nr": 18,
+          "titel": "Generalwiederholung Q12 + Q13",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "01:30",
+              "thema": "Alle Formeln Q12",
+              "beschreibung": "Formelsammlung durchgehen, jeden Term erklären können. Lücken sofort nachschlagen.",
+              "stufe": "Wiederholung",
+              "leifi_links": []
+            },
+            {
+              "zeit_von": "01:30",
+              "zeit_bis": "03:00",
+              "thema": "Alle Formeln Q13",
+              "beschreibung": "Q13-Formeln (De-Broglie, Bragg, Unschärfe, Zerfallsgesetz) festigen. Querverbindungen zwischen Q12 und Q13 herstellen.",
+              "stufe": "Wiederholung",
+              "leifi_links": []
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "wochentag": "Donnerstag",
+          "tag_nr": 19,
+          "titel": "Abitur-Simulation (komplette Klausur)",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "03:00",
+              "thema": "Komplette Abiturklausur lösen",
+              "beschreibung": "Eine vollständige Abiturklausur (Bayern) unter realen Bedingungen: kein Handy, nur Formelsammlung. Danach Fehler analysieren.",
+              "stufe": "Simulation",
+              "leifi_links": [
+                {
+                  "label": "LeiFi: Alle Examensaufgaben",
+                  "url": "https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld/examen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "wochentag": "Freitag",
+          "tag_nr": 20,
+          "titel": "Letzte Wiederholung & Entspannung",
+          "bloecke": [
+            {
+              "zeit_von": "00:00",
+              "zeit_bis": "01:30",
+              "thema": "Nur Fehler vom Do aufholen",
+              "beschreibung": "Nur die Fehler aus der Simulation vom Donnerstag nochmal nacharbeiten. Nichts Neues anfangen.",
+              "stufe": "Wiederholung",
+              "leifi_links": []
+            },
+            {
+              "zeit_von": "01:30",
+              "zeit_bis": "03:00",
+              "thema": "Entspannen",
+              "beschreibung": "Sport, spazieren gehen, ausschlafen. Der Kopf braucht Pausen – das ist Lernzeit, nicht Verschwendung.",
+              "stufe": "Pause",
+              "leifi_links": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

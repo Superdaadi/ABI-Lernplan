@@ -1,0 +1,90 @@
+<section class="lernplan">
+  <header class="lernplan__header">
+    <h1 class="lernplan__title">{{ data.meta.titel }}</h1>
+    <p class="lernplan__subtitle">
+      {{ data.meta.klasse }} &mdash; {{ data.meta.pruefungsvorbereitung }} &mdash;
+      {{ data.meta.dauer_wochen }} Wochen &middot; {{ data.meta.stunden_pro_tag }} h/Tag
+    </p>
+  </header>
+
+  <!-- Week tabs -->
+  <nav class="lernplan__tabs" role="tablist">
+    <button
+      *ngFor="let woche of data.wochen; let i = index"
+      class="tab"
+      [class.tab--active]="activeWoche === i"
+      [class.tab--q12]="woche.stufe === 'Q12'"
+      [class.tab--q13]="woche.stufe === 'Q13'"
+      (click)="setWoche(i)"
+      role="tab"
+      [attr.aria-selected]="activeWoche === i"
+    >
+      <span class="tab__week">Woche {{ woche.id }}</span>
+      <span class="tab__label">{{ woche.titel }}</span>
+    </button>
+  </nav>
+
+  <!-- Progress -->
+  <div class="progress" [attr.aria-label]="'Fortschritt: ' + fortschritt + '%'">
+    <div class="progress__fill" [style.width.%]="fortschritt"></div>
+  </div>
+
+  <!-- Active week -->
+  <div class="woche" *ngIf="aktuelleWoche as woche">
+    <div class="woche__meta">
+      <span class="tag" [ngClass]="'tag--' + woche.stufe.toLowerCase()">{{ woche.stufe }}</span>
+      <span class="woche__untertitel">{{ woche.untertitel }}</span>
+    </div>
+
+    <!-- Day accordion -->
+    <div class="tage">
+      <div
+        class="tag-row"
+        *ngFor="let tag of woche.tage"
+        [class.tag-row--open]="isTagOpen(tag.id)"
+      >
+        <button
+          class="tag-row__head"
+          (click)="toggleTag(tag.id)"
+          [attr.aria-expanded]="isTagOpen(tag.id)"
+        >
+          <span class="tag-row__wochentag">{{ tag.wochentag }}</span>
+          <span class="tag-row__titel">{{ tag.titel }}</span>
+          <span class="tag-row__arrow" aria-hidden="true">&#9654;</span>
+        </button>
+
+        <div class="tag-row__body" *ngIf="isTagOpen(tag.id)" role="region">
+          <div class="block" *ngFor="let block of tag.bloecke">
+            <div class="block__time">{{ block.zeit_von }}–{{ block.zeit_bis }}</div>
+            <div class="block__content">
+              <div class="block__header">
+                <span class="tag tag--sm" [ngClass]="stufenClass(block.stufe)">
+                  {{ block.stufe }}
+                </span>
+                <span class="block__thema">{{ block.thema }}</span>
+              </div>
+              <p class="block__beschreibung">{{ block.beschreibung }}</p>
+              <div class="block__links" *ngIf="block.leifi_links.length">
+                <a
+                  *ngFor="let link of block.leifi_links"
+                  class="leifi-link"
+                  [href]="link.url"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  {{ link.label }}
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Week tip -->
+    <aside class="tipp">
+      <span class="tipp__icon" aria-hidden="true">💡</span>
+      <p class="tipp__text">{{ woche.tipp }}</p>
+    </aside>
+  </div>
+</section>
