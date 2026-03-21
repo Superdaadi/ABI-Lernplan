@@ -4,75 +4,74 @@
 
 ### Elektrische Felder
 
-- ❔ [Quiz zum Elektrischen Feld](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/quiz-zum-elektrischen-feld)
-- 🟢 [Feldlinienrichtung](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/feldlinienrichtung)
-- 🟢 [Feldlinienbilder in elektrischen Feldern](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/feldlinienbilder-elektrischen-feldern)
-- 🟡 [Überlagerung elektrischer Felder](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/ueberlagerung-elektrischer-felder)
-- 🟡 [Feldüberlagerung](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/feldüberlagerung)
-- 🟡 [Elektrisches Feld (Abitur BY 2021 Ph11-2 A3)](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/elektrisches-feld-abitur-2021-ph11-2-a3)
-- 🟡 [Äquipotentiallinien](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/aequipotentiallinien)
-- 🟡 [Elektrisches Feld und Potential (Abitur BY 2011 Ph11 A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/elektrisches-feld-und-potential-abitur-2011-ph11-a1-1)
-- 🟡 [Potentialsonde (Abitur BY 2015 Ph11 A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/potentialsonde-abitur-2015-ph11-a1-1)
-- 🔴 [COULOMB-Felder mehrerer Punktladungen (Abitur BY 1998 LK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/coulomb-felder-mehrerer-punktladungen-abitur-1998-lk-a1-1)
-- 🔴 [Feldüberlagerung auf dem THALES-Kreis](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/feldüberlagerung-auf-dem-thales-kreis)
-- 🔴 [Elektrisches Feld bei einem Gewitter (Abitur BY 2020 Ph11-2 A1)](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/elektrisches-feld-bei-einem-gewitter-abitur-2020-ph11-2-a1)
+- ❔ [Quiz zum Elektrischen Feld](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/quiz-zum-elektrischen-feld)
+- 🟢 [Feldlinienrichtung](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/feldlinienrichtung)
+- 🟢 [Feldüberlagerung](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/feldueberlagerung)
+- 🟢 [Äquipotentiallinien](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/aequipotentiallinien)
+- 🟢 [Elektrisches Feld und Potential (Abitur BY 2011 Ph11 A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/elektrisches-feld-und-potential-abitur-2011-ph11-a1-1)
+- 🟡 [Feldlinienbilder in elektrischen Feldern](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/feldlinienbilder-elektrischen-feldern)
+- 🟡 [Elektrisches Feld (Abitur BY 2021 Ph11-2 A3)](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/elektrisches-feld-abitur-2021-ph-11-2-a3)
+- 🟡 [Potentialsonde (Abitur BY 2015 Ph11 A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/potentialsonde-abitur-2015-ph11-a1-1)
+- 🟡 [COULOMB-Felder mehrerer Punktladungen (Abitur BY 1998 LK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/coulomb-felder-mehrerer-punktladungen-abitur-1998-lk-a1-1)
+- 🟡 [Feldüberlagerung auf dem THALES-Kreis](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/feldueberlagerung-auf-dem-thales-kreis)
+- 🟡 [Elektrisches Feld bei einem Gewitter (Abitur BY 2020 Ph11-2 A1)](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/elektrisches-feld-bei-einem-gewitter-abitur-2020-ph11-2-a1)
 
 ### Coulomb-Kraft
 
-- 🟢 [Kraft zwischen zwei Ladungen](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/kraft-zwischen-zwei-ladungen)
-- 🟡 [Doppelpendel](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/doppelpendel)
-- 🟡 [Pendel am Bandgenerator](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/pendel-am-bandgenerator)
-- 🟡 [Elektrische Kräfte im Wasserstoffatom](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/elektrische-kraefte-im-wasserstoffatom)
-- 🟡 [Auslenkung im homogenen elektrischen Feld](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/auslenkung-im-homogenen-elektrischen-feld)
-- 🟡 [Kugeln einer Influenzmaschine](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/kugeln-einer-influenzmaschine)
-- 🔴 [COULOMBsche Drehwaage](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/coulombsche-drehwaage)
-- 🔴 [COULOMB-Gesetz (Abitur BY 2006 LK A5-1)](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/coulomb-gesetz-abitur-2006-lk-a5-1)
-- 🔴 [Schwingende Ladung (Abitur SL 1996 LK A1)](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/schwingende-ladung-abitur-sl-1996-lk-a1)
-- 🔴 [Pendel im COULOMB-Feld (Abitur BY 1995 LK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/pendel-im-coulomb-feld-abitur-1995-lk-a1-1)
+- 🟢 [Kraft zwischen zwei Ladungen](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/kraft-zwischen-zwei-ladungen)
+- 🟡 [Doppelpendel](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/doppelpendel)
+- 🟡 [Pendel am Bandgenerator](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/pendel-am-bandgenerator)
+- 🟡 [Elektrische Kräfte im Wasserstoffatom](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/elektrische-kraefte-im-wasserstoffatom)
+- 🟡 [Auslenkung im homogenen elektrischen Feld](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/auslenkung-im-homogenen-elektrischen-feld)
+- 🟡 [COULOMBsche Drehwaage](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/coulombsche-drehwaage)
+- 🟡 [Pendel im COULOMB-Feld (Abitur BY 1995 LK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/pendel-im-coulomb-feld-abitur-1995-lk-a1-1)
+- 🔴 [Schwingende Ladung (Abitur SL 1996 LK A1)](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/schwingende-ladung-abitur-sl-1996-lk-a1-31-34)
+- 🔴 [Kugeln einer Influenzmaschine](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/kugeln-einer-influenzmaschine)
+- 🔴 [COULOMB-Gesetz (Abitur BY 2006 LK A5-1)](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/coulomb-gesetz-abitur-2006-lk-a5-1)
 
 ### MILLIKAN-Versuch
 
-- 🟡 [Staubteilchen im Kondensator](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/staubteilchen-im-kondensator)
-- 🟡 [Schwebende Kugel](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/schwebende-kugel)
-- 🟡 [Schwebendes Öltröpfchen](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/schwebendes-oeltroepfchen)
-- 🟡 [MILLIKAN-Versuch (Abitur BY 2005 GK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/millikan-versuch-abitur-2005-gk-a1-1)
-- 🔴 [Ladungsquantelung (Abitur BY 2006 GK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/ladungsquantelung-abitur-2006-gk-a1-1)
-- 🔴 [MILLIKAN-Versuch (Schwebe-Fall-Methode)](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/millikan-versuch-schwebe-fall-methode)
-- 🔴 [MILLIKAN-Versuch (Steige-Fall-Methode)](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/millikan-versuch-steige-fall-methode)
-- 🔴 [Eine Variante des MILLIKAN-Versuchs](https://www.leifiphysik.de/elektrizitaetslehre/elektrisches-feld-und-ladungen/aufgabe/eine-variante-des-millikan-versuchs)
+- 🟢 [Staubteilchen im Kondensator](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/staubteilchen-im-kondensator)
+- 🟢 [Schwebende Kugel](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/schwebende-kugel)
+- 🟢 [Schwebendes Öltröpfchen](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/schwebendes-oeltroepfchen)
+- 🟢 [MILLIKAN-Versuch (Abitur BY 2005 GK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/millikan-versuch-abitur-2005-gk-a1-1)
+- 🟡 [Ladungsquantelung (Abitur BY 2006 GK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/ladungsquantelung-abitur-2006-gk-a1-1)
+- 🟡 [MILLIKAN-Versuch (Steige-Fall-Methode)](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/millikan-versuch-steige-fall-methode)
+- 🔴 [MILLIKAN-Versuch (Schwebe-Fall-Methode)](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/millikan-versuch-schwebe-fall-methode)
+- 🔴 [Eine Variante des MILLIKAN-Versuchs](https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld/aufgabe/eine-variante-des-millikan-versuchs)
 
 
 ### Plattenkondensator
 
 - 🟢 [Laden eines Plattenkondensators](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/laden-eines-plattenkondensators)
 - 🟢 [Influenzversuch im Plattenkondensator](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/influenzversuch-im-plattenkondensator)
-- 🟡 [Abgeklemmte elektrische Quelle](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/abgeklemmte-elektrische-quelle)
+- 🟢 [Abgeklemmte elektrische Quelle](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/abgeklemmte-elektrische-quelle)
+- 🟢 [Energie beim Plattenkondensator (Abitur BY 1997 GK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/energie-beim-plattenkondensator-abitur-1997-gk-a1-1)
+- 🟢 [Elektronenblitzgerät](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/elektronenblitzgeraet)
+- 🟢 [Goldcap-Kondensator](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/goldcap-kondensator)
+- 🟢 [Energie einer Gewitterwolke](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/energie-einer-gewitterwolke)
+- 🟢 [Funkenentladung](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/funkenentladung)
 - 🟡 [Auseinanderziehen eines Plattenkondensators](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/auseinanderziehen-eines-plattenkondensators)
 - 🟡 [Metallplatte im Plattenkondensator](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/metallplatte-im-plattenkondensator)
 - 🟡 [Gewitterwolke (Abitur BY 1998 GK A1-2)](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/gewitterwolke-abitur-1998-gk-a1-2)
 - 🟡 [Plattenkondensator (Abitur BY 2008 GK A1-2)](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/plattenkondensator-abitur-2008-gk-a1-2)
 - 🟡 [Plattenkondensator (Abitur BY 2017 Ph11-2 A1)](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/plattenkondensator-abitur-2017-ph11-2-a1)
-- 🟡 [Energie beim Plattenkondensator (Abitur BY 1997 GK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/energie-beim-plattenkondensator-abitur-1997-gk-a1-1)
 - 🟡 [Kraft auf Kondensatorplatte](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/kraft-auf-kondensatorplatte)
 - 🟡 [Kräfte auf Plattenkondensator (Abitur BY 2003 GK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/kraefte-auf-plattenkondensator-abitur-2003-gk-a1-1)
-- 🟡 [Elektronenblitzgerät](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/elektronenblitzgeraet)
-- 🟡 [Goldcap-Kondensator](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/goldcap-kondensator)
-- 🟡 [Energie einer Gewitterwolke](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/energie-einer-gewitterwolke)
-- 🔴 [Feldkonstante (Abitur BY 2005 GK A1-2)](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/feldkonstante-abitur-2005-gk-a1-2)
-- 🔴 [Superkondensator (Abitur BY 2022 Ph11-1 A1)](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/superkondensator-abitur-2022-ph11-1-a1)
+- 🟡 [Feldkonstante (Abitur BY 2005 GK A1-2)](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/feldkonstante-abitur-2005-gk-a1-2)
+- 🟡 [Superkondensator (Abitur BY 2022 Ph11-1 A1)](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/superkondensator-abitur-2022-ph11-1-a1)
+- 🟡 [Angeschlossener Plattenkondensator (Abitur BY 1996 LK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/angeschlossener-plattenkondensator-abitur-1996-lk-a1-1)
 - 🔴 [Kondensator-Mikrofon (Abitur BY 2004 LK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/kondensator-mikrofon-abitur-2004-lk-a1-1)
-- 🔴 [Angeschlossener Plattenkondensator (Abitur BY 1996 LK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/angeschlossener-plattenkondensator-abitur-1996-lk-a1-1)
-- 🔴 [Funkenentladung](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/funkenentladung)
 
 ### Ein- und Ausschalten von RC-Kreisen
 
+- 🟢 [Kondensator beim Herzschrittmacher](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/kondensator-beim-herzschrittmacher)
 - 🟡 [Einschaltvorgang beim Kondensator](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/einschaltvorgang-beim-kondensator)
 - 🟡 [Entladen eines Kondensators](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/entladen-eines-kondensators)
-- 🟡 [Kondensator beim Herzschrittmacher](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/kondensator-beim-herzschrittmacher)
-- 🔴 [Entladen eines Plattenkondensators](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/entladen-eines-plattenkondensators)
+- 🟡 [Kapazitätsmessung (Abitur BY 2005 LK A5-1)](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/kapazitaetsmessung-abitur-2005-lk-a5-1)
+- 🟡 [Entladen eines Plattenkondensators](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/entladen-eines-plattenkondensators)
 - 🔴 [Entladen eines Goldcaps (Abitur BY 2000 LK A5-1)](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/entladen-eines-goldcaps-abitur-2000-lk-a5-1)
 - 🔴 [Power-Kondensator (Abitur BY 2008 LK A5-1)](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/power-kondensator-abitur-2008-lk-a5-1)
-- 🔴 [Kapazitätsmessung (Abitur BY 2005 LK A5-1)](https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/aufgabe/kapazitaetsmessung-abitur-2005-lk-a5-1)
 
 <br>
 
@@ -82,23 +81,23 @@
 
 ### Magnetfeld gerader Leiter & Spulen
 
+- 🟢 [Spulenstrom für ein Magnetfeld](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/spulenstrom-fuer-ein-magnetfeld)
 - 🟡 [Horizontalkomponente des Erdmagnetfelds](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/horizontalkomponente-des-erdmagnetfelds)
-- 🟡 [Spulenstrom für ein Magnetfeld](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/spulenstrom-fuer-ein-magnetfeld)
-- 🟡 [Ausmessung des Erdmagnetfelds](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/ausmessung-des-erdmagnetfelds)
 - 🟡 [Magnetfeld einer Ringspule](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/magnetfeld-einer-ringspule)
+- 🔴 [Ausmessung des Erdmagnetfelds](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/ausmessung-des-erdmagnetfeldes)
 
 ### HELMHOLTZ-Spulen
 
-- 🟡 [Magnetfeldmessung in einem HELMHOLTZ-Spulenpaar](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/magnetfeldmessung-in-einem-helmholtz-spulenpaar)
+- 🟡 [Magnetfeldmessung in einem HELMHOLTZ-Spulenpaar](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/magnetfeldmessung-einem-helmholtz-spulenpaar)
 
 ### Magnetische Kraft
 
-- 🟢 [Kraft zwischen geraden Leitern](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/kraft-zwischen-geraden-leitern)
-- 🟡 [Kraft auf Leiterrahmen](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/kraft-auf-leiterrahmen)
-- 🟡 [Kraft auf Spule](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/kraft-auf-spule)
+- 🟢 [Kraft auf Leiterrahmen](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/kraft-auf-leiterrahmen)
+- 🟢 [Kraft auf Spule](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/kraft-auf-spule)
+- 🟡 [Kraft zwischen geraden Leitern](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/kraft-zwischen-geraden-leitern)
 - 🟡 [Leiterschleife im Magnetfeld](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/leiterschleife-im-magnetfeld)
-- 🟡 [Drehspulinstrument / Drehspule als Strommesser](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/drehspulinstrument)
-- 🔴 [Kraft auf Fernleitungen](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/kraft-auf-fernleitungen)
+- 🟡 [Kraft auf Fernleitungen](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/kraft-auf-fernleitungen)
+- 🔴 [Drehspulinstrument / Drehspule als Strommesser](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/drehspulinstrument)
 - 🔴 [Bestimmung der magnetischen Flussdichte (Abitur BW 1982 LK)](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/bestimmung-der-magnetischen-flussdichte-abitur-bw-1982-lk)
 
 <br>
@@ -109,48 +108,48 @@
 
 ### Lorentzkraft & Teilchen in Feldern
 
-- 🟢 [Richtungsregel-Training](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/richtungsregel-training)
-- 🟡 [Geladener Tropfen im Erdmagnetfeld](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/geladener-tropfen-im-erdmagnetfeld)
-- 🟡 [Elektronen im elektrischen Querfeld](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/elektronen-im-elektrischen-querfeld)
-- 🟡 [Tintenstrahldrucker (Abitur BY 2005 LK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/tintenstrahldrucker-abitur-2005-lk-a1-1)
-- 🟡 [Ionen im elektrischen Querfeld (Abitur BY 1992 GK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/ionen-im-elektrischen-querfeld-abitur-1992-gk-a1-1)
-- 🟡 [Linearbeschleuniger am LHC](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/linearbeschleuniger-am-lhc)
-- 🟡 [Ionenantrieb (Abitur BY 2000 GK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/ionenantrieb-abitur-2000-gk-a1-1)
-- 🟡 [Fadenstrahlrohr](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/fadenstrahlrohr)
-- 🟡 [Teilchennachweis in der Blasenkammer](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/teilchennachweis-in-der-blasenkammer)
-- 🟡 [Polarlicht (Abitur BY 2013 Ph11 A1-3)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/polarlicht-abitur-2013-ph11-a1-3)
+- 🟢 [Richtungsregel-Training](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/richtungsregel-training)
+- 🟢 [Geladener Tropfen im Erdmagnetfeld](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/aufgabe/geladener-tropfen-im-erdmagnetfeld)
+- 🟢 [Fadenstrahlrohr](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/fadenstrahlrohr)
+- 🟢 [Teilchennachweis in der Blasenkammer](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/teilchennachweis-der-blasenkammer)
+- 🟡 [Elektronen im elektrischen Querfeld](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/elektronen-im-elektrischen-querfeld)
+- 🟡 [Tintenstrahldrucker (Abitur BY 2005 LK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/tintenstrahldrucker-abitur-2005-lk-a1-1)
+- 🟡 [Ionen im elektrischen Querfeld (Abitur BY 1992 GK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/ionen-im-elektrischen-querfeld-abitur-1992-gk-a1-1)
+- 🟡 [Linearbeschleuniger am LHC](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/linearbeschleuniger-am-lhc)
+- 🟡 [Ionenantrieb (Abitur BY 2000 GK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/ionenantrieb-abitur-2000-gk-a1-1)
 - 🟡 [Strahlentherapie mit Elektronen (Abitur BY 2020 Ph11-1 A1)](https://www.leifiphysik.de/relativitaetstheorie/spezielle-relativitaetstheorie/aufgabe/strahlentherapie-mit-elektronen-abitur-2020-ph11-1-a1) *(relativistischer Spezialfall)*
-- 🔴 [Elektronen im gebogenen Plattenkondensator (Abitur BY 2018 Ph11-1 A1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/elektronen-im-gebogenen-plattenkondensator-abitur-2018-ph11-1-a1)
-- 🔴 [Abgasreinigung (Abitur BY 2015 Ph11 A2-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/abgasreinigung-abitur-2015-ph11-a2-1)
-- 🔴 [Erzeugung eines fokussierten Protonenstrahls (Abitur BY 2016 Ph11 A2-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/erzeugung-eines-fokussierten-protonenstrahls-abitur-2016-ph11-a2-1)
-- 🔴 [Elektronenbewegung im Magnetron (Abitur BY 2021 Ph11-2 A1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/elektronenbewegung-im-magnetron-abitur-2021-ph11-2-a1)
-- 🔴 [Linearbeschleuniger (Abitur BY 1981 LK A2-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/linearbeschleuniger-abitur-1981-lk-a2-1)
+- 🟡 [Elektronen im gebogenen Plattenkondensator (Abitur BY 2018 Ph11-1 A1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/elektronen-im-gebogenen-plattenkondensator-abitur-2018-ph11-1-a1)
+- 🟡 [Abgasreinigung (Abitur BY 2015 Ph11 A2-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/abgasreinigung-abitur-2015-ph11-a2-1)
+- 🟡 [Erzeugung eines fokussierten Protonenstrahls (Abitur BY 2016 Ph11 A2-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/erzeugung-eines-fokussierten-protonenstrahls-abitur-2016-ph11-a2-1)
+- 🟡 [Elektronenbewegung im Magnetron (Abitur BY 2021 Ph11-2 A1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/elektronenbewegung-im-magnetron-abitur-2021-ph-11-2-a1)
+- 🟡 [Linearbeschleuniger (Abitur BY 1981 LK A2-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/linearbeschleuniger-abitur-1981-lk-a2-1)
+- 🔴 [Polarlicht (Abitur BY 2013 Ph11 A1-3)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/polarlicht-abitur-2013-ph11-a1-3)
 
 ### HALL-Effekt
 
-- 🟡 [HALL-Effekt (Abitur BY 1993 GK A1-2)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/hall-effekt-abitur-1993-gk-a1-2)
-- 🟡 [Kalibrierung einer HALL-Anordnung](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/kalibrierung-einer-hall-anordnung)
-- 🔴 [Medizinische Anwendung des HALL-Effekts (Abitur BY 2013 Ph11 A2-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/medizinische-anwendung-des-hall-effekts-abitur-2013-ph11-a2-1)
+- 🟢 [HALL-Effekt (Abitur BY 1993 GK A1-2)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/hall-effekt-abitur-1993-gk-a1-2)
+- 🟢 [Kalibrierung einer HALL-Anordnung](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/kalibrierung-einer-hall-anordnung)
+- 🟡 [Medizinische Anwendung des HALL-Effekts (Abitur BY 2013 Ph11 A2-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/medizinische-anwendung-des-hall-effekts-abitur-2013-ph11-a2-1)
 
 ### Wienscher Geschwindigkeitsfilter
 
-- 🟡 [Geschwindigkeitsfilter](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/geschwindigkeitsfilter)
-- 🟡 [Elektronen im Geschwindigkeitsfilter](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/elektronen-im-geschwindigkeitsfilter)
-- 🔴 [Bestimmungen am Massenspektrometer](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/bestimmungen-am-massenspektrometer)
+- 🟢 [Elektronen im Geschwindigkeitsfilter](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/elektronen-im-geschwindigkeitsfilter)
+- 🟡 [Geschwindigkeitsfilter](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/geschwindigkeitsfilter)
+- 🟡 [Bestimmungen am Massenspektrometer](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/bestimmungen-am-massenspektrometer)
 
 ### Das Zyklotron
 
-- 🟡 [Normal-Zyklotron](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/normal-zyklotron)
-- 🔴 [Low-Cost-Zyklotron (Abitur BY 2003 GK A1-2)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/low-cost-zyklotron-abitur-2003-gk-a1-2)
-- 🔴 [Zyklotron (Abitur BY 1993 LK A2-2)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/zyklotron-abitur-1993-lk-a2-2)
-- 🔴 [Synchrotron (Abitur BY 2006 GK A1-2)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/synchrotron-abitur-2006-gk-a1-2)
-- 🔴 [Der Ringbeschleuniger LHC (Abitur BY 2015 Ph11 A1-2)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/der-ringbeschleuniger-lhc-abitur-2015-ph11-a1-2)
+- 🟡 [Normal-Zyklotron](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/normal-zyklotron)
+- 🟡 [Low-Cost-Zyklotron (Abitur BY 2003 GK A1-2)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/low-cost-zyklotron-abitur-2003-gk-a1-2)
+- 🟡 [Der Ringbeschleuniger LHC (Abitur BY 2015 Ph11 A1-2)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/der-ringbeschleuniger-lhc-abitur-2015-ph11-a1-2)
+- 🔴 [Zyklotron (Abitur BY 1993 LK A2-2)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/zyklotron-abitur-1993-lk-a2-2)
+- 🔴 [Synchrotron (Abitur BY 2006 GK A1-2)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/synchrotron-abitur-2006-gk-a1-2)
 
 ### Massenspektrometer
 
-- 🟡 [BAINBRIDGE-Spektrometer (Abitur BY 2000 GK A1-2)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/bainbridge-spektrometer-abitur-2000-gk-a1-2)
-- 🔴 [Massenspektrograph (Abitur BY 2000 LK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/massenspektrograph-abitur-2000-lk-a1-1)
-- 🔴 [Trennung von Isotopen (Abitur BY 1984 GK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen/aufgabe/trennung-von-isotopen-abitur-1984-gk-a1-1)
+- 🟢 [BAINBRIDGE-Spektrometer (Abitur BY 2000 GK A1-2)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/bainbridge-spektrometer-abitur-2000-gk-a1-2)
+- 🟡 [Massenspektrograph (Abitur BY 2000 LK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/massenspektrograph-abitur-2000-lk-a1-1)
+- 🟡 [Trennung von Isotopen (Abitur BY 1984 GK A1-1)](https://www.leifiphysik.de/elektrizitaetslehre/bewegte-ladungen-feldern/aufgabe/trennung-von-isotopen-abitur-1984-gk-a1-1)
 
 <br>
 
@@ -176,17 +175,17 @@
 
 - ❔ [Quiz zur Induktion in bewegten Leitern](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/quiz-zur-induktion-bewegten-leitern)
 - 🟢 [Bewegte Leiterschleife im Magnetfeld](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/bewegte-leiterschleife-im-magnetfeld)
-- 🟢 [Stab auf Schienen](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/stab-auf-schienen)
+- 🟢 [Schüttellampe](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/schuettellampe)
+- 🟢 [Fallender Leiterrahmen (Abitur BY 2004 GK A1-2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/fallender-leiterrahmen-abitur-2004-gk-a1-2)
 - 🟡 [Induktionskochfeld (Abitur BY 2012 Ph11 A2-3)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/induktionskochfeld-abitur-2012-ph11-a2-3)
 - 🟡 [Elektrische Zahnbürste (Abitur BY 2017 Ph11-2 A2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/elektrische-zahnbuerste-abitur-2017-ph11-2-a2)
 - 🟡 [Spule auf Wagen (Abitur BY 2007 GK A1-2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/spule-auf-wagen-abitur-2007-gk-a1-2)
 - 🟡 [Geschwindigkeitsmessung beim Fahrrad (Abitur BY 2020 Ph11-2 A2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/geschwindigkeitsmessung-beim-fahrrad-abitur-2020-ph11-2-a2)
 - 🟡 [Erzeugung von Wechselspannung](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/erzeugung-von-wechselspannung)
 - 🟡 [Tauchspul-Mikrofon](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/tauchspul-mikrofon)
-- 🟡 [Schüttellampe](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/schuettellampe)
-- 🟡 [Lawinenverschütteten-Suchgerät (Abitur BY 2021 Ph11-1 A2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/lawinenverschuetteten-suchgeraet-abitur-2021-ph11-1-a2)
-- 🔴 [Fallender Leiterrahmen (Abitur BY 2004 GK A1-2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/fallender-leiterrahmen-abitur-2004-gk-a1-2)
-- 🔴 [Rotierende Spule im Erdmagnetfeld (Abitur BY 2015 Ph11 A2-2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/rotierende-spule-im-erdmagnetfeld-abitur-2015-ph11-a2-2)
+- 🟡 [Rotierende Spule im Erdmagnetfeld (Abitur BY 2015 Ph11 A2-2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/rotierende-spule-im-erdmagnetfeld-abitur-2015-ph11-a2-2)
+- 🟡 [Lawinenverschütteten-Suchgerät (Abitur BY 2021 Ph11-1 A2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/lawinenverschuetteten-suchgeraet-abitur-2021-ph-11-1-a2)
+- 🔴 [Stab auf Schienen](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/stab-auf-schienen)
 - 🔴 [Weidezaun (Abitur BY 2019 Ph11-1 A2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/weidezaun-abitur-2019-ph11-1-a2)
 
 ### Selbstinduktion
@@ -195,9 +194,9 @@
 - 🟡 [Zündanlage eines Ottomotors](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/zuendanlage-eines-ottomotors)
 - 🟡 [Einschaltvorgang bei Spulen](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/einschaltvorgang-bei-spulen)
 - 🟡 [Elektrischer Weidezaun](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/elektrischer-weidezaun)
-- 🔴 [Anlassstrom und Gegenspannung beim Elektromotor](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/anlassstrom-und-gegenspannung-beim-elektromotor)
-- 🔴 [Gleichstrommotor / Wirkungsgrad beim Elektromotor](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/gleichstrommotor)
-- 🔴 [Magnetische Energie](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/magnetische-energie)
+- 🟡 [Anlassstrom und Gegenspannung beim Elektromotor](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/anlassstrom-und-gegenspannung-beim-elektromotor)
+- 🟡 [Gleichstrommotor / Wirkungsgrad beim Elektromotor](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/gleichstrommotor)
+- 🟡 [Magnetische Energie](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-induktion/aufgabe/magnetische-energie)
 
 <br>
 
@@ -241,14 +240,14 @@
 
 ### Dipol & Ausbreitung
 
-- 🟡 [Interferenz von Dipolstrahlung (Abitur BY 2008 GK A2-2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-wellen/aufgabe/interferenz-von-dipolstrahlung-abitur-2008-gk-a2-2)
+- 🟢 [Interferenz von Dipolstrahlung (Abitur BY 2008 GK A2-2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-wellen/aufgabe/interferenz-von-dipolstrahlung-abitur-2008-gk-a2-2)
+- 🟢 [Sendeanlage Wertachtal (Abitur BY 2016 Ph11 A2-2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-wellen/aufgabe/sendeanlage-wertachtal-abitur-2016-ph11-a2-2)
 - 🟡 [Schwingkreis und Wellen (Abitur BY 2009 GK A2-1)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-wellen/aufgabe/schwingkreis-und-wellen-abitur-2009-gk-a2-1)
 - 🟡 [Doppelspaltversuch mit Mikrowellen (Abitur BY 2006 GK A2-2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-wellen/aufgabe/doppelspaltversuch-mit-mikrowellen-abitur-2006-gk-a2-2)
 - 🟡 [Der Zeitsignalsender DCF77 (Abitur BY 2014 Ph11 A2-2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-wellen/aufgabe/der-zeitsignalsender-dcf77-abitur-2014-ph11-a2-2)
-- 🟡 [Sendeanlage Wertachtal (Abitur BY 2016 Ph11 A2-2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-wellen/aufgabe/sendeanlage-wertachtal-abitur-2016-ph11-a2-2)
-- 🟡 [Mikrowellen im Mobilfunkstandard 5G (Abitur BY 2020 Ph11-1 A2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-wellen/aufgabe/mikrowellen-im-mobilfunkstandard-5g-abitur-2020-ph11-1-a2)
-- 🔴 [Interferenz und Dipolstrahlung (Abitur BY 2019 Ph12-1 A1)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-wellen/aufgabe/interferenz-und-dipolstrahlung-abitur-2019-ph12-1-a1)
-- 🔴 [Mikrowellengerät (Abitur BY 2021 Ph11-2 A2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-wellen/aufgabe/mikrowellengeraet-abitur-2021-ph11-2-a2)
+- 🟡 [Mikrowellen im Mobilfunkstandard 5G (Abitur BY 2020 Ph11-1 A2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-wellen/aufgabe/mikrowellen-im-mobilfunkstandard-5g-abitur-2020-ph-11-1-a2)
+- 🟡 [Interferenz und Dipolstrahlung (Abitur BY 2019 Ph12-1 A1)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-wellen/aufgabe/interferenz-und-dipolstrahlung-abitur-2019-ph12-1-a1)
+- 🟡 [Mikrowellengerät (Abitur BY 2021 Ph11-2 A2)](https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-wellen/aufgabe/mikrowellengeraet-abitur-2021-ph-11-2-a2)
 
 ### Stehende Wellen & Polarisation
 
@@ -320,12 +319,12 @@
 
 > 💡 **Hinweis:** Unschärferelation, Wellenfunktion (|Ψ|² als Wahrscheinlichkeit), Komplementarität und Quantenradierer (Zeigerdiagramm-Argumentation) haben auf Leifi keine eigenständigen Aufgaben. Diese Themen unbedingt über das **Leifi-Grundwissen** und **ISB-Abituraufgaben** abdecken – sie werden im eA-Abi konzeptuell geprüft.
 
-- 🟡 [Möllenstedt-Versuch (Abitur BY 1982 LK A3-2/3)](https://www.leifiphysik.de/quantenphysik/quantenobjekt-elektron/aufgabe/moellenstedt-versuch-abitur-1982-lk-a3-23)
+- 🔴 [Möllenstedt-Versuch (Abitur BY 1982 LK A3-2/3)](https://www.leifiphysik.de/quantenphysik/quantenobjekt-elektron/aufgabe/moellenstedt-versuch-abitur-1982-lk-a3-23)
 
 
 ### Experimente
 
-- 🟢 [Quiz zum Photoeffekt](https://www.leifiphysik.de/quantenphysik/quantenobjekt-photon/aufgabe/quiz-zum-photoeffekt)
+- ❔ [Quiz zum Photoeffekt](https://www.leifiphysik.de/quantenphysik/quantenobjekt-photon/aufgabe/quiz-zum-photoeffekt)
 - 🟢 [Gegenfeldmethode (Abitur BY 2003 GK A2-4)](https://www.leifiphysik.de/quantenphysik/quantenobjekt-photon/aufgabe/gegenfeldmethode-abitur-2003-gk-a2-4)
 - 🟢 [FRANCK-HERTZ-Versuch (Abitur BY 2011 Ph12-2 A1)](https://www.leifiphysik.de/atomphysik/atomarer-energieaustausch/aufgabe/franck-hertz-versuch-abitur-2011-ph12-2-a1)
 - 🟡 [Doppelspaltversuch von JÖNSSON (Abitur BW 2004 LK A1-c)](https://www.leifiphysik.de/quantenphysik/quantenobjekt-elektron/aufgabe/doppelspaltversuch-von-joensson-abitur-bw-2004-lk-a1-c)
@@ -356,7 +355,7 @@
 
 > 💡 **Hinweis:** Die Bragg-Bedingung wurde bereits in Q12 (Optik) eingeführt – hier wird sie im Kontext der Röntgenstrahlung und Kristallstrukturanalyse quantenphysikalisch vertieft.
 
-- 🟢 [Bestimmung des PLANCKschen Wirkungsquantums aus dem RÖNTGEN-Spektrum](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/aufgabe/bestimmung-des-planckschen-wirkungsquantums-aus-dem-roentgen-spektrum)
+- 🟡 [Bestimmung des PLANCKschen Wirkungsquantums aus dem RÖNTGEN-Spektrum](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/aufgabe/bestimmung-des-planckschen-wirkungsquantums-aus-dem-roentgen-spektrum)
 - 🟡 [RÖNTGEN-Fluoreszenzanalyse (Abitur BY 2016 Ph12-2-A1)](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/aufgabe/roentgen-fluoreszenzanalyse-abitur-2016-ph12-2-a1)
 - 🟡 [Bestimmung der PLANCK-Konstante (Abitur BY 2019 Ph12-1 A2)](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/aufgabe/bestimmung-der-planck-konstante-abitur-2019-ph12-1-a2)
 - 🟡 [Bestimmung der AVOGADRO-Konstante mit Cäsiumchlorid](https://www.leifiphysik.de/atomphysik/roentgen-strahlung/aufgabe/bestimmung-der-avogadro-konstante-mit-caesiumchlorid)
@@ -389,8 +388,8 @@
 - 🟢 [Beta-Minus-Zerfall von Rhenium-187](https://www.leifiphysik.de/kern-teilchenphysik/kernreaktionen/aufgabe/beta-minus-zerfall-von-rhenium-187)
 - 🟡 [Kernreaktion mit Fluor (BY 1999 LK A4-1)](https://www.leifiphysik.de/kern-teilchenphysik/kernreaktionen/aufgabe/kernreaktion-mit-fluor-abitur-1999-lk-a4-1)
 - 🟡 [Roentgenium (BY 2006 LK A4-2)](https://www.leifiphysik.de/kern-teilchenphysik/kernreaktionen/aufgabe/roentgenium-abitur-2006-lk-a4-2)
-- 🔴 [Alphazerfall von Polonium (Abitur BY 1996 LK A4-2)](https://www.leifiphysik.de/kern-teilchenphysik/radioaktivitaet-fortfuehrung/aufgabe/alphazerfall-von-polonium-abitur-1996-lk-a4-2)
-- 🔴 [Zerfall und Halbwertszeit freier Neutronen (Abitur BY 2002 LK A4-2)](https://www.leifiphysik.de/kern-teilchenphysik/radioaktivitaet-fortfuehrung/aufgabe/zerfall-und-halbwertszeit-freier-neutronen-abitur-2002-lk-a4-2)
+- 🟡 [Alphazerfall von Polonium (Abitur BY 1996 LK A4-2)](https://www.leifiphysik.de/kern-teilchenphysik/radioaktivitaet-fortfuehrung/aufgabe/alphazerfall-von-polonium-abitur-1996-lk-a4-2)
+- 🟡 [Zerfall und Halbwertszeit freier Neutronen (Abitur BY 2002 LK A4-2)](https://www.leifiphysik.de/kern-teilchenphysik/radioaktivitaet-fortfuehrung/aufgabe/zerfall-und-halbwertszeit-freier-neutronen-abitur-2002-lk-a4-2)
 
 ### Kernstruktur & Kernreaktionen
 
@@ -399,8 +398,8 @@
 - 🟡 [Entstehung von Alpha-, Beta- und Gammastrahlung](https://www.leifiphysik.de/kern-teilchenphysik/radioaktivitaet-einfuehrung/aufgabe/entstehung-von-alpha-beta-und-gammastrahlung)
 - 🟡 [Bestimmung der Neutronenmasse (Abitur BY 1998 LK A4-1)](https://www.leifiphysik.de/kern-teilchenphysik/kernreaktionen/aufgabe/bestimmung-der-neutronenmasse-abitur-1998-lk-a4-1)
 - 🟡 [Fusion in der Sonne (Abitur BY 1996 LK A4-3)](https://www.leifiphysik.de/kern-teilchenphysik/kernspaltung-und-kernfusion/aufgabe/fusion-der-sonne-abitur-1996-lk-a4-3)
+- 🟡 [Transmutation von Plutonium-239 (Abitur BY 2022 Ph12-1 A2)](https://www.leifiphysik.de/kern-teilchenphysik/radioaktivitaet-fortfuehrung/aufgabe/transmutation-von-plutonium-239-abitur-2022-ph12-1-a2)
 - 🔴 [Kernfusion im Sonneninneren (Abitur BY 2001 LK A4-2)](https://www.leifiphysik.de/kern-teilchenphysik/kernspaltung-und-kernfusion/aufgabe/kernfusion-im-sonneninneren-abitur-2001-lk-a4-2)
-- 🔴 [Transmutation von Plutonium-239 (Abitur BY 2022 Ph12-1 A2)](https://www.leifiphysik.de/kern-teilchenphysik/radioaktivitaet-fortfuehrung/aufgabe/transmutation-von-plutonium-239-abitur-2022-ph12-1-a2)
 
 ### Messung & Anwendung
 
