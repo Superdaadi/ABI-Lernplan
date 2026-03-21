@@ -464,10 +464,12 @@
 - [12 (eA)](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/12/physik/erhoeht)
 - [13 (eA)](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/13/physik/erhoeht)
 
+- [IQB Formelsammlung PDF](https://www.iqb.hu-berlin.de/media/documents/N_Mathematisch-naturwissenschaftliche_Formelsammlung.pdf)
+
 <br>
 
 ## Ampel-Legende
 
-> 🟢 Leichte Aufgabe
-> 🟡 Mittlere Aufgabe
-> 🔴 Schwere Aufgabe
+> 🟢 Leichte Aufgabe  
+> 🟡 Mittlere Aufgabe  
+> 🔴 Schwere Aufgabe  
