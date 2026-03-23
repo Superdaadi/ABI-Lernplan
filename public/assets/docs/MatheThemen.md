@@ -1,5 +1,6 @@
 # Mathe Übungsplan – Lambacher Schweizer Bayern
 
+---
 
 
 <br>
@@ -7,189 +8,293 @@
 
 # 1. Analysis
 
-## Funktionenscharen, Stammfunktion, Ableitungsregeln
+### **I**  Funktionenscharen, Stammfunktion, Ableitungsregeln **Q12**
 
-### 1. Funktionenscharen 🟡
+#### 1. Funktionenscharen 🟡
 | Seite | Aufgabe |
 |-------|---------|
-| S. 84 |
+| S. 6  |
 
 - [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
+- [ ] Aufg. 7 Test
+- [ ] Aufg. 11 Abi
+- [ ] Aufg. 13 Test
 
 ---
 
-### 2. Stammfunktionen 🟡
+#### 2. Stammfunktionen 🟡
 | Seite | Aufgabe |
 |-------|---------|
-| S. 91 | |
+| S. 10 | |
 
 - [ ] Aufg. 2
-- [ ] Aufg. 4a
+- [ ] Aufg. 11 Test
+- [ ] Aufg. 13 G
+
+---
+
+#### 3. Ableitung der trigonometrischen Funktionen 🟢
+| Seite | Aufgabe |
+|-------|---------|
+| S. 14 | |
+
 - [ ] Aufg. 6
+- [ ] Aufg. 12
+- [ ] Aufg. 16 Test
 
 ---
 
-### 3. Ableitung der trigonometrischen Funktionen 🟢
+#### 4. Die Produktregel 🟡
 | Seite | Aufgabe |
 |-------|---------|
-| S. 98 | |
+| S. 18 | |
 
-- [ ] Aufg. 1
 - [ ] Aufg. 2
-- [ ] Aufg. 5
+- [ ] (Aufg. 6 Test)
+- [ ] Aufg. 15 Test
 
 ---
 
-### 4. Die Produktregel 🟡
+#### 5. Verkettung von Funktionen 🟡
 | Seite | Aufgabe |
 |-------|---------|
-| S. 105 | |
+| S. 21 | |
 
-- [ ] Aufg. 3
-- [ ] Aufg. 5
+- [ ] Aufg. 6 Test
+- [ ] Aufg. 15
+
+
+#### 6. Kettenregel 🟡
+| Seite | Aufgabe |
+|-------|---------|
+| S. 25 | |
+
 - [ ] Aufg. 7
+- [ ] Aufg. 13
+- [ ] Aufg. 17 Abi
 
 ---
 
-### 5. Kettenregel 🟡
+### **II** Die Exponentialfunktion **Q12**
+
+#### 1. Die natürliche Exponentialfunktion 🟡
 | Seite | Aufgabe |
 |-------|---------|
-| S. 112 | |
+| S. 36 | |
 
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
+- [ ] Aufg. 8 Test
+- [ ] Aufg. 17 Abi
+- [ ] Aufg. 19 Test
 
 ---
 
-## Die Exponentialfunktion
-
-### 6. Die natürliche Exponentialfunktion 🟡
+#### 2. Verknüpfte Exponentialfunktionen 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 126 | |
+| S. 41 | |
 
-- [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
-
----
-
-### 7. Verknüpfte Exponentialfunktionen 🔴
-| Seite | Aufgabe |
-|-------|---------|
-| S. 133 | |
-
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
-- [ ] Aufg. 8
-
----
-
-### 8. Der natürliche Logarithmus 🔴
-| Seite | Aufgabe |
-|-------|---------|
-| S. 140 | |
-
-- [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
+- [ ] Aufg. 6 Abi
 - [ ] Aufg. 7
+- [ ] Aufg. 10 Test
+- [ ] Aufg. 12 Abi
+- [ ] Aufg. 17 Abi Test
 
 ---
 
-### 9. Modellierung von Wachstumsvorgängen 🔴
+#### 3. Der natürliche Logarithmus 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 148 | |
+| S. 46 | |
 
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
+- [ ] Aufg. 7 Test
+- [ ] Aufg. 9 Test
+- [ ] Aufg. 12 Abi
+- [ ] Aufg. 17 Abi
+- [ ] Aufg. 18
 
 ---
 
-## Quotientenregel und Untersuchung von Funktionen
-
-### 10. Quotientenregel 🔴
+#### 4. Modellierung von Wachstumsvorgängen 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 160 | |
+| S. 52 | |
 
 - [ ] Aufg. 1
+- [ ] Aufg. 8 Abi
+- [ ] Aufg. 14 Abi
+- [ ] Aufg. 16 Test
+
+---
+
+#### On Top:
+
+- [ ] S.59/13 Abi
+- [ ] S.65 Teste Dich (1 x Abi)
+
+---
+
+### V Quotientenregel und Untersuchung von Funktionen **Q12**
+
+#### 1. Quotientenregel 🔴
+| Seite | Aufgabe |
+|-------|---------|
+| S. 152| |
+
+- [ ] Aufg. 1
+- [ ] Aufg. 8 Test
+- [ ] Aufg. 18 Test
+
+---
+
+#### 2. Untersuchung gebrochen-rationaler Funktionen 🔴
+| Seite | Aufgabe |
+|-------|---------|
+| S. 156| |
+
+- [ ] Aufg. 2
+- [ ] Aufg. 19 Abi
+- [ ] Aufg. 20 Abi
+
+---
+
+#### 3. Die Quotionsregel und Untersuchung verknüpfter Funktionen 🔴
+| Seite | Aufgabe |
+|-------|---------|
+| S. 162| |
+
+- [ ] Aufg. 1
+- [ ] Aufg. 5 Abi Test
+- [ ] Aufg. 13 Abi
+- [ ] Aufg. 24 Abi
+
+---
+
+#### On Top:
+
+- [ ] S.170/16 Abi
+- [ ] S.173 Teste Dich (2 x Abi)
+
+---
+
+### **VI** Wurzelfunktionen **Q12**
+
+#### 1. Die Umkehrfunktion 🔴
+| Seite | Aufgabe |
+|-------|---------|
+| S. 176| |
+
+- [ ] Aufg. 2
+- [ ] Aufg. 5 Test
+- [ ] Aufg. 12 Abi Test
+
+---
+
+#### 2. Potenzfunktion mit rationalem Exponenten und ihrer Ableitung 🔴
+| Seite | Aufgabe |
+|-------|---------|
+| S. 181| |
+
+- [ ] Aufg. 2
+- [ ] Aufg. 13 Test
+- [ ] Aufg. 17 G
+
+---
+
+#### 3. Verknüpfung mit der Wurzelfunktionen 🔴
+| Seite | Aufgabe |
+|-------|---------|
+| S. 186| |
+
 - [ ] Aufg. 3
-- [ ] Aufg. 5
-- [ ] Aufg. 7
+- [ ] Aufg. 7 Abi
+- [ ] Aufg. 9 Abi
+- [ ] Aufg. 13 Abi
 
 ---
 
-### 11. Untersuchung gebrochen-rationaler Funktionen 🔴
-| Seite | Aufgabe |
-|-------|---------|
-| S. 168 | |
+#### On Top:
 
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
-- [ ] Aufg. 8
+- [ ] S.197 Teste Dich (0 x Abi)
 
 ---
 
-## Wurzelfunktionen
+### VII Die natürliche Logarithmusfunktion **Q12**
 
-### 12. Die Umkehrfunktion 🔴
+#### 1. Die natürliche Logarithmusfunktion 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 178 | |
+| S. 200| |
 
 - [ ] Aufg. 1
-- [ ] Aufg. 3
 - [ ] Aufg. 5
+- [ ] Aufg. 12 Abi
+- [ ] Aufg. 18 Abi
+- [ ] Aufg. 21
 
 ---
 
-### 13. Wurzelfunktionen 🔴
+#### 1. Die natürliche Logarithmusfunktion 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 184 | |
-
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
-
----
-
-## Die natürliche Logarithmusfunktion
-
-### 14. Die natürliche Logarithmusfunktion 🔴
-| Seite | Aufgabe |
-|-------|---------|
-| S. 192 | |
+| S. 200| |
 
 - [ ] Aufg. 1
-- [ ] Aufg. 3
 - [ ] Aufg. 5
-- [ ] Aufg. 7
+- [ ] Aufg. 12 Abi
+- [ ] Aufg. 18 Abi
+- [ ] Aufg. 21
 
 ---
 
-## Integralrechnung
-
-### 15. Das bestimmte Integral 🔴
+#### 2. Ableitung und Grenzwerte mit der ln-Funktion 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 206 | |
+| S. 205| |
 
 - [ ] Aufg. 1
-- [ ] Aufg. 2
-- [ ] Aufg. 4
+- [ ] Aufg. 5 Abi
+- [ ] Aufg. 7 Test
+- [ ] Aufg. 13 Abi
 
 ---
 
-### 16. Die Integralfunktion 🔴
+#### 3. Untersuchen von Verknüpfungen mit der ln-Funktion 🔴
+| Seite | Aufgabe |
+|-------|---------|
+| S. 209| |
+
+- [ ] Aufg. 5 Abi
+- [ ] Aufg. 7 Abi
+- [ ] Aufg. 9 Abi
+- [ ] Aufg. 13
+
+---
+
+#### On Top:
+
+- [ ] S.214/3 Abi
+- [ ] S.214/7 Abi
+- [ ] S.214/8 Abi
+- [ ] S.214/10 Abi
+- [ ] S.219 Teste Dich (1 x Abi)
+
+---
+
+
+### Integralrechnung **Q13**
+
+#### 1. Das bestimmte Integral 🔴
+| Seite | Aufgabe |
+|-------|---------|
+| S. 6  | |
+
+- [ ] Aufg. 5
+- [ ] Aufg. 12 Test
+- [ ] Aufg. 14 G
+
+---
+
+#### 2. Die Integralfunktion 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 214 | |
@@ -200,7 +305,7 @@
 
 ---
 
-### 17. Das unbestimmte Integral, Integrationsregeln 🔴
+#### 3. Das unbestimmte Integral, Integrationsregeln 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 220 | |
@@ -212,10 +317,10 @@
 
 ---
 
-### 18. Uneigentliche Integrale 🔴
+#### 4. Uneigentliche Integrale 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 228 | |
+| S. 31 | |
 
 - [ ] Aufg. 1
 - [ ] Aufg. 3
@@ -223,7 +328,7 @@
 
 ---
 
-### 19. Anwendungen der Integralrechnung 🔴
+#### 5. Anwendungen der Integralrechnung 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 234 | |
@@ -234,7 +339,7 @@
 
 ---
 
-### 20. Rotationskörper 🔴
+#### 6. Rotationskörper 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 242 | |
@@ -245,107 +350,167 @@
 
 ---
 
+#### On Top:
+
+- [ ] S.XX/X
+
+---
+
 <br><br>
 
 
 # 2. Stochastik
 
-## Zufallsgrößen und Binomialverteilung
+## Zufallsgrößen und Binomialverteilung **Q12**
 
-### 1. Zufallsgrößen und Wahrscheinlichkeitsverteilungen 🔴
+### 1. Zufallsgrößen und deren Wahrscheinlichkeitsverteilungen 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 278 | |
+| S. 68 | |
 
-- [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
+- [ ] Aufg. 6
+- [ ] Aufg. 13
 
 ---
 
 ### 2. Erwartungswert, Varianz und Standardabweichung 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 285 | |
+| S. 73 | |
 
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
+- [ ] Aufg. 5
+- [ ] Aufg. 9 Test
+- [ ] Aufg. 23 Test
 
 ---
 
 ### 3. Urnenmodelle – Kombinatorik 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 292 | |
+| S. 78 | |
+
+- [ ] Aufg. 5 Test
+- [ ] Aufg. 11 Test
+
+---
+
+### 4. Ziehen aus einer Urne 🔴
+| Seite | Aufgabe |
+|-------|---------|
+| S. 82 | |
+
+- [ ] Aufg. 1
+- [ ] Aufg. 8 Abi
+- [ ] Aufg. 12 Abi
+
+---
+
+### 5. Bernoulli-Kette 🔴
+| Seite | Aufgabe |
+|-------|---------|
+| S. 86 | |
+
+- [ ] Aufg. 2
+- [ ] Aufg. 4 Test
+- [ ] Aufg. 11 G
+
+---
+
+### 6. Die Binomialverteilung 🟡
+| Seite | Aufgabe |
+|-------|---------|
+| S. 89 | |
+
+- [ ] Aufg. 1
+- [ ] Aufg. 9 Abi
+- [ ] Aufg. 20 Abi
+- [ ] Aufg. 21 Abi Test
+
+---
+
+### 7. Modellieren mithilfe der Binomialverteilung 🟡
+| Seite | Aufgabe |
+|-------|---------|
+| S. 95 | |
+
+- [ ] Aufg. 4 Abi
+- [ ] Aufg. 18 Abi
+- [ ] Aufg. 23 Abi
+
+---
+
+### 8. Erwartungswert & Varianz der Binomialverteilung 🟡
+| Seite | Aufgabe |
+|-------|---------|
+| S. 101| |
 
 - [ ] Aufg. 1
 - [ ] Aufg. 3
-- [ ] Aufg. 5
+- [ ] Aufg. 9 Abi
+- [ ] Aufg. 11 Test
+- [ ] Aufg. 22 Abi
 
 ---
 
-### 4. Bernoulli-Kette 🔴
-| Seite | Aufgabe |
-|-------|---------|
-| S. 299 | |
+#### On Top:
 
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
+- [ ] S.111/6  Abi
+- [ ] S.112/10 Abi
+- [ ] S.112/11 Abi
+- [ ] S.113/15 Abi
+- [ ] S.113/17 Abi
+- [ ] S.114/19 Abi
+- [ ] S.114/20 Abi
+- [ ] S.115/23 Abi
+- [ ] S.119 Teste Dich (0 x Abi)
 
 ---
 
-### 5. Die Binomialverteilung 🟡
+## Beurteilende Statistik **Q12**
+
+### 1. Einseitiger Hypothesentest 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 306 | |
+| S. 122| |
 
 - [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
+- [ ] Aufg. 5 Test
+- [ ] Aufg. 9 Test
 
 ---
 
-### 6. Erwartungswert & Varianz der Binomialverteilung 🟡
+### 2. Fehler erster und zweiter Art 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 312 | |
+| S. 127| |
 
 - [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
+- [ ] Aufg. 7 Test
+- [ ] Aufg. 15
 
 ---
 
-## Beurteilende Statistik
-
-### 7. Einseitiger Hypothesentest 🔴
+### 3. Konstruktion eines einseitigen Signifikantstests 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 328 | |
-
-- [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
-- [ ] Aufg. 7
-
----
-
-### 8. Fehler erster und zweiter Art 🔴
-| Seite | Aufgabe |
-|-------|---------|
-| S. 335 | |
+| S. 135| |
 
 - [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
+- [ ] Aufg. 13 Abi
+- [ ] Aufg. 15 Abi
+- [ ] Aufg. 17 Abi Test
 
 ---
 
-## Normalverteilung
+#### On Top:
 
-### 9. Histogramme klassierter Daten 🟡
+- [ ] S.149 Teste Dich (0 x Abi)
+
+---
+
+## Normalverteilung **Q13**
+
+### 1. Histogramme klassierter Daten 🟡
 | Seite | Aufgabe |
 |-------|---------|
 | S. 348 | |
@@ -356,7 +521,7 @@
 
 ---
 
-### 10. Stetige Zufallsgrößen 🔴
+### 2. Stetige Zufallsgrößen 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 354 | |
@@ -367,7 +532,7 @@
 
 ---
 
-### 11. Die Normalverteilung 🔴
+### 3. Die Normalverteilung 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 362 | |
@@ -378,7 +543,7 @@
 
 ---
 
-### 12. Die Sigma-Regeln 🔴
+### 4. Die Sigma-Regeln 🔴
 | Seite | Aufgabe |
 |-------|---------|
 | S. 370 | |
@@ -390,64 +555,84 @@
 
 ---
 
+#### On Top:
+
+- [ ] S.149 Teste Dich (0 x Abi)
+
+---
+
 <br><br>
 
 # 3. Geometrie
 
-## Koordinatengeometrie im Raum
+## Koordinatengeometrie im Raum **Q12**
 
 ### 1. Punkte im Raum – das dreidimensionale Koordinatensystem 🟢
 | Seite | Aufgabe |
 |-------|---------|
-| S. 14 | |
+| S. 222| |
 
-- [ ] Aufg. 1
-- [ ] Aufg. 2
-- [ ] Aufg. 4
+- [ ] Aufg. 8 Test
+- [ ] Aufg. 14 Test
+- [ ] Aufg. 17 G
 
 ---
 
 ### 2. Vektoren 🟢
 | Seite | Aufgabe |
 |-------|---------|
-| S. 22 | |
+| S. 226| |
 
-- [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
-
----
-
-### 3. Darstellung von Vektoren 🟡
-| Seite | Aufgabe |
-|-------|---------|
-| S. 30 | |
-
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
+- [ ] Aufg. 8
+- [ ] Aufg. 12
 
 ---
 
-### 4. Das Skalarprodukt von Vektoren 🟡
+### 3. Addition & Subtraktion von Vektoren 🟡
 | Seite | Aufgabe |
 |-------|---------|
-| S. 38 | |
+| S. 230| |
 
-- [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
+- [ ] Aufg. 6 Test
+- [ ] Aufg. 15 Test
 
 ---
 
-### 5. Das Vektorprodukt (Kreuzprodukt) 🟡
+### 4. Multiplikation von Vektoren 🟡
 | Seite | Aufgabe |
 |-------|---------|
-| S. 46 | |
+| S. 234| |
 
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
+- [ ] Aufg. 5 Test
+- [ ] Aufg. 13
+
+---
+
+### 5. Das Skalarprodukt von Vektoren 🟡
+| Seite | Aufgabe |
+|-------|---------|
+| S. 238| |
+
+- [ ] Aufg. 1/2/3
+- [ ] Aufg. 7
+- [ ] Aufg. 23 Test
+
+---
+
+### 6. Das Vektorprodukt (Kreuzprodukt) 🟡
+| Seite | Aufgabe |
+|-------|---------|
+| S. 244| |
+
+- [ ] Aufg. 6 Test
+- [ ] Aufg. 9 Abi
+- [ ] Aufg. 16
+
+---
+
+#### On Top:
+
+- [ ] S.255 Teste Dich (0 x Abi)
 
 ---
 
@@ -476,97 +661,123 @@
 ---
 
 ### 8. Gegenseitige Lage von Geraden 🟡
+
+* Spickzettel erstellen (Seite 98)
+
 | Seite | Aufgabe |
 |-------|---------|
-| S. 70 | |
+| S. 98 | |
 
-- [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
+- [ ] Aufg. 3 Test
+- [ ] Aufg. 9 Test
 
 ---
 
 ### 9. Parameterdarstellung von Ebenen 🟢
+
+* Karteikarte mit allen Ebenenformen
+
 | Seite | Aufgabe |
 |-------|---------|
-| S. 76 | |
+| S. 101| |
 
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
+- [ ] Aufg. 1
+- [ ] Aufg. 6 Test
+- [ ] Aufg. 14 Test
 
 ---
 
 ### 10. Normalen- und Koordinatenform von Ebenen 🟡
+
+* Auch auf Karteikarte von Ebenen notieren
+
 | Seite | Aufgabe |
 |-------|---------|
-| S. 82 | |
+| S. 105| |
 
-- [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
+- [ ] Aufg. 4 Test
+- [ ] Aufg. 5 Test
+- [ ] Aufg. 17 Abi
+- [ ] Aufg. 18 Test
 
 ---
 
 ### 11. Gegenseitige Lage: Gerade und Ebene 🔴
+
+* PAP erstellen
+
 | Seite | Aufgabe |
 |-------|---------|
-| S. 88 | |
+| S. 109| |
 
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
-- [ ] Aufg. 8
+- [ ] Aufg. 7 Test
+- [ ] Aufg. 15 Abi
+- [ ] Aufg. 18
+- [ ] Aufg. 20
+- [ ] Aufg. 21 Test
 
 ---
 
 ### 12. Gegenseitige Lage von Ebenen 🔴
+
+* PAP aus 11. ggf erweitern
+
 | Seite | Aufgabe |
 |-------|---------|
-| S. 94 | |
+| S. 114| |
 
 - [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
-- [ ] Aufg. 7
+- [ ] Aufg. 4
+- [ ] Aufg. 6
+- [ ] Aufg. 11 Test
 
 ---
 
 ### 13. Abstandsbestimmungen 🔴
+
+* Karteikarte PAP
+
 | Seite | Aufgabe |
 |-------|---------|
-| S. 100 | |
+| S. 118| |
 
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
+- [ ] Aufg. 1
+- [ ] Aufg. 8 Test
+- [ ] Aufg. 13
+- [ ] Aufg. 21 Test
 
 ---
 
 ### 14. Schnittwinkel 🔴
+
+* Karteikarte
+
 | Seite | Aufgabe |
 |-------|---------|
-| S. 108 | |
+| S. 124| |
 
 - [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
+- [ ] Aufg. 10
+- [ ] Aufg. 13 Abi
 
 ---
 
 ### 15. Kugeln im Raum 🔴
+
+* Spicker
+
 | Seite | Aufgabe |
 |-------|---------|
-| S. 116 | |
+| S. 130| |
 
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
+- [ ] Aufg. 1
+- [ ] Aufg. 18
+- [ ] Aufg. 22 Test
 
 ---
 
 ## Ampel-Legende
 
-> 🟢 Sicher beherrscht
-> 🟡 Grundverständnis, aber Übung nötig
+> 🟢 Sicher beherrscht  
+> 🟡 Grundverständnis, aber Übung nötig  
 > 🔴 Keine Ahnung – höchste Priorität
