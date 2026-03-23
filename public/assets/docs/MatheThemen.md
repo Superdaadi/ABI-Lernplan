@@ -281,12 +281,12 @@
 ---
 
 
-### Integralrechnung **Q13**
+### I Integralrechnung **Q13**
 
 #### 1. Das bestimmte Integral 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 6  | |
+| S. 6  |         |
 
 - [ ] Aufg. 5
 - [ ] Aufg. 12 Test
@@ -297,64 +297,140 @@
 #### 2. Die Integralfunktion 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 214 | |
+| S. 11 |         |
 
-- [ ] Aufg. 1
 - [ ] Aufg. 3
-- [ ] Aufg. 5
+- [ ] Aufg. 4
+- [ ] Aufg. 17 Test
 
 ---
 
-#### 3. Das unbestimmte Integral, Integrationsregeln 🔴
+#### 3. Hauptsatz der Differential- und Integralrechnung 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 220 | |
+| S. 17 |         |
 
-- [ ] Aufg. 2
+- [ ] Aufg. 7 Test
+- [ ] Aufg. 20
+- [ ] Aufg. 21 Abi
+
+---
+
+#### 4. Stammfunktion und Integrale 🔴
+| Seite | Aufgabe |
+|-------|---------|
+| S. 22 |         |
+
 - [ ] Aufg. 4
-- [ ] Aufg. 6
+- [ ] Aufg. 20 Test
+- [ ] Aufg. 22 Test
+
+---
+
+#### 5. Flächeninhaltsberechnung mit dem Integralrechnung 🔴
+| Seite | Aufgabe |
+|-------|---------|
+| S. 26 |         |
+
+- [ ] Aufg. 3 Abi
 - [ ] Aufg. 8
+- [ ] Aufg. 15 Abi
 
 ---
 
-#### 4. Uneigentliche Integrale 🔴
+#### 6. Uneigentliche Integrale 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 31 | |
+| S. 31 |         |
 
-- [ ] Aufg. 1
 - [ ] Aufg. 3
-- [ ] Aufg. 5
+- [ ] Aufg. 11 Test
 
 ---
 
-#### 5. Anwendungen der Integralrechnung 🔴
+#### 7. Das Integral als Gesamtänderung einer Größe 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 234 | |
+| S. 34 |         |
+
+- [ ] Aufg. 4
+- [ ] Aufg. 9 Abi
+- [ ] Aufg. 17 Abi
+- [ ] Aufg. 20 Test
+
+---
+
+#### 8. Rotationskörper 🔴
+| Seite | Aufgabe |
+|-------|---------|
+| S. 42 |         |
 
 - [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
-
----
-
-#### 6. Rotationskörper 🔴
-| Seite | Aufgabe |
-|-------|---------|
-| S. 242 | |
-
-- [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
+- [ ] Aufg. 4 Test
+- [ ] Aufg. 10
 
 ---
 
 #### On Top:
 
-- [ ] S.XX/X
+- [ ] S.47/15 Abi
+- [ ] S.49/25 Abi
+- [ ] S.54 Teste Dich (2 x Abi)
 
 ---
+
+### IV Anwendung der Differential- und Integralrechnung **Q13**
+
+#### 1. Untersuchung verknüpfter Funktionen 🔴
+| Seite | Aufgabe |
+|-------|---------|
+| S. 148|         |
+
+- [ ] Aufg. 9 Abi
+- [ ] Aufg. 12 Abi
+
+---
+
+#### 2. Funktionsbestimmung 🔴
+| Seite | Aufgabe |
+|-------|---------|
+| S. 155|         |
+
+- [ ] Aufg. 2 Abi
+- [ ] Aufg. 11 Abi Test
+- [ ] Aufg. 23 Test
+
+---
+
+#### 3. Extremwertprobleme 🔴
+| Seite | Aufgabe |
+|-------|---------|
+| S. 162|         |
+
+- [ ] Aufg. 12 Abi
+- [ ] Aufg. 14
+
+---
+
+#### 4. Differential- und Integralrechnung in Sachzusammenhängen 🔴
+| Seite | Aufgabe |
+|-------|---------|
+| S. 167|         |
+
+- [ ] Aufg. 13 Abi
+- [ ] Aufg. 15 Abi
+
+---
+
+#### On Top:
+
+- [ ] S.176/11 Abi
+- [ ] S.177/18 Abi
+- [ ] S.178/21 Abi
+- [ ] S.183 Teste Dich (0 x Abi)
+
+---
+
 
 <br><br>
 
@@ -508,50 +584,51 @@
 
 ---
 
-## Normalverteilung **Q13**
+## II Normalverteilung (anderes Buch im Unterricht) **Q13**
 
-### 1. Histogramme klassierter Daten 🟡
+### 1. Diskrete und stetige Zufallsgrößen 🟡
 | Seite | Aufgabe |
 |-------|---------|
-| S. 348 | |
+| S. 58 | |
 
 - [ ] Aufg. 1
-- [ ] Aufg. 2
-- [ ] Aufg. 4
+- [ ] Aufg. 6
+- [ ] Aufg. 11 Test
 
 ---
 
-### 2. Stetige Zufallsgrößen 🔴
+### 2. Die Analyse der Gauß'schen Glockenfunktion 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 354 | |
+| S. 64 | |
 
 - [ ] Aufg. 1
-- [ ] Aufg. 3
-- [ ] Aufg. 5
+- [ ] Aufg. 8 Test
+- [ ] Aufg. 14 Test
 
 ---
 
 ### 3. Die Normalverteilung 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 362 | |
+| S. 68 | |
 
-- [ ] Aufg. 2
-- [ ] Aufg. 4
-- [ ] Aufg. 6
+- [ ] Aufg. 1
+- [ ] Aufg. 9
+- [ ] Aufg. 27 Test
+- [ ] Aufg. 28 Test
 
 ---
 
 ### 4. Die Sigma-Regeln 🔴
 | Seite | Aufgabe |
 |-------|---------|
-| S. 370 | |
+| S. 76 | |
 
-- [ ] Aufg. 1
-- [ ] Aufg. 3
 - [ ] Aufg. 5
-- [ ] Aufg. 7
+- [ ] Aufg. 11
+- [ ] Aufg. 17 Test
+- [ ] Aufg. 18 Test
 
 ---
 
@@ -636,9 +713,9 @@
 
 ---
 
-## Geraden und Ebenen im Raum **Q13**
+## III Geraden und Ebenen im Raum **Q13**
 
-### 6. Lineare Abhängigkeit 🟡
+### 1. Lineare Abhängigkeit 🟡
 | Seite | Aufgabe |
 |-------|---------|
 | S. 90 | |
@@ -649,7 +726,7 @@
 
 ---
 
-### 7. Parameterdarstellung von Geraden 🟡
+### 2. Parameterdarstellung von Geraden 🟡
 | Seite | Aufgabe |
 |-------|---------|
 | S. 94 | |
@@ -660,7 +737,7 @@
 
 ---
 
-### 8. Gegenseitige Lage von Geraden 🟡
+### 3. Gegenseitige Lage von Geraden 🟡
 
 * Spickzettel erstellen (Seite 98)
 
@@ -673,7 +750,7 @@
 
 ---
 
-### 9. Parameterdarstellung von Ebenen 🟢
+### 4. Parameterdarstellung von Ebenen 🟢
 
 * Karteikarte mit allen Ebenenformen
 
@@ -687,7 +764,7 @@
 
 ---
 
-### 10. Normalen- und Koordinatenform von Ebenen 🟡
+### 5. Normalen- und Koordinatenform von Ebenen 🟡
 
 * Auch auf Karteikarte von Ebenen notieren
 
@@ -702,7 +779,7 @@
 
 ---
 
-### 11. Gegenseitige Lage: Gerade und Ebene 🔴
+### 6. Gegenseitige Lage: Gerade und Ebene 🔴
 
 * PAP erstellen
 
@@ -718,7 +795,7 @@
 
 ---
 
-### 12. Gegenseitige Lage von Ebenen 🔴
+### 7. Gegenseitige Lage von Ebenen 🔴
 
 * PAP aus 11. ggf erweitern
 
@@ -733,7 +810,7 @@
 
 ---
 
-### 13. Abstandsbestimmungen 🔴
+### 8. Abstandsbestimmungen 🔴
 
 * Karteikarte PAP
 
@@ -748,7 +825,7 @@
 
 ---
 
-### 14. Schnittwinkel 🔴
+### 9. Schnittwinkel 🔴
 
 * Karteikarte
 
@@ -762,7 +839,7 @@
 
 ---
 
-### 15. Kugeln im Raum 🔴
+### 10. Kugeln im Raum 🔴
 
 * Spicker
 
