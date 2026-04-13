@@ -32,6 +32,12 @@ export class Home {
       kuerzel: 'PH',
       route: '/physik',
       farbe: 'blau'
+    },
+    {
+      name: 'Info mdl.',
+      kuerzel: 'INF',
+      route: '/info',
+      farbe: 'orange'
     }
   ];
 

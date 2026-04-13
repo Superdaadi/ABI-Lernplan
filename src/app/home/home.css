@@ -73,6 +73,10 @@
   background: #1a3a5c;
 }
 
+.fach-card--orange .fach-header {
+  background: #5c491a;
+}
+
 /* ── Fach Header ──────────────────────────────────────────────────────────── */
 
 .fach-header {

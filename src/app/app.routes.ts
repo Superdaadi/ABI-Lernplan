@@ -18,5 +18,10 @@ export const routes: Routes = [
     path: 'physik',
     component: Lernplan,
     data: { src: '/assets/docs/PhysikThemen.md' },
+  },
+  {
+    path: 'info',
+    component: Lernplan,
+    data: { src: '/assets/docs/InfoThemen.md' },
   }
 ];
